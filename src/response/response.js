@@ -23,7 +23,7 @@ export const lessons = [
         id: 39572,
         name: "Lecture -01 Introduction Of Governance and Syllabus Analysis",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39589/kgss-1702633742-v39589.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39589/kgss-1702633742-v39589.mp4",
       },
     ],
   },
@@ -35,31 +35,31 @@ export const lessons = [
         id: 39573,
         name: "Lecture -05 सामाजिक न्याय एव विकास Social Justice & Development (Part 04) Dr. S.S. Pandey Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39573/kgss-1702622815-v39573.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39573/kgss-1702622815-v39573.mp4",
       },
       {
         id: 39338,
         name: "Lecture -04 सामाजिक न्याय एव विकास Social Justice & Development (Part 03) Dr. S.S. Pandey Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39338/kgss-1702536268-v39338.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39338/kgss-1702536268-v39338.mp4",
       },
       {
         id: 39104,
         name: "Lecture -03 सामाजिक न्याय एव विकास Social Justice & Development (Part 02) Dr. S.S. Pandey Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39104/kgss-1702449617-v39104.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39104/kgss-1702449617-v39104.mp4",
       },
       {
         id: 38885,
         name: "Lecture -02  सामाजिक न्याय एव विकास Social Justice & Development (Part 01) Dr. S.S. Pandey Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/38885/kgss-1702363125-v38885.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/38885/kgss-1702363125-v38885.mp4",
       },
       {
         id: 38653,
         name: "Lecture -01 Intoduction Of Social Justice By Dr. S.S. Pandey sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/38653/kgss-1702276718-v38653.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/38653/kgss-1702276718-v38653.mp4",
       },
       {
         id: 38867,
@@ -103,13 +103,13 @@ export const lessons = [
         id: 38206,
         name: "Answer Writing session 02 By Dharmendra Kumar Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/38206/kgss-1702018703-v38206.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/38206/kgss-1702018703-v38206.mp4",
       },
       {
         id: 37821,
         name: "Answer Writing session 01 By Dharmendra Kumar Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/37822/kgss-1701844548-v37822.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/37822/kgss-1701844548-v37822.mp4",
       },
       {
         id: 33492,
@@ -156,427 +156,427 @@ export const lessons = [
         id: 7599,
         name: "Lecture-01 परिचय - भारत का संविधान By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/1/1.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/1/1.mp4",
       },
       {
         id: 7612,
         name: "Lecture 02 संविधानवाद और सरकार By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/2/2.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/2/2.mp4",
       },
       {
         id: 7614,
         name: "Lecture- 03 भाग- 3 (मूल अधिकार) By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/3/3.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/3/3.mp4",
       },
       {
         id: 7615,
         name: "Lecture- 04 भाग- 3 (मूल अधिकार ) अनुच्छेद 14 समता का अधिकार By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/4/4.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/4/4.mp4",
       },
       {
         id: 7616,
         name: "Lecture 05 भाग- 3 (मूल अधिकार) अनुच्छेद 15 भेदभाव का निषेध By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/5/5.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/5/5.mp4",
       },
       {
         id: 7617,
         name: "Lecture- 06 भाग- 3 (मूल अधिकार)  अनुच्छेद -16 लोक नियोजन में अवसर की समता By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/6/6.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/6/6.mp4",
       },
       {
         id: 7620,
         name: "Lecture- 07 भाग- 3 (मूल अधिकार) आरक्षण नीति By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/7/7.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/7/7.mp4",
       },
       {
         id: 7621,
         name: "Lecture-08  भाग- 3 (मूल अधिकार) , Article-17/18 (अस्पृश्यता का अंत / उपाधियों का अंत ) By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/8/8.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/8/8.mp4",
       },
       {
         id: 7622,
         name: "Lecture- 09 भाग- 3, (मूल अधिकार),  Article-19 स्वतंत्रता का अधिकार By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/9/9.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/9/9.mp4",
       },
       {
         id: 7624,
         name: "Lecture- 10 भाग- 3, (मूल अधिकार), Article-20 अपराधों के लिए दोष सिद्धि के सम्बन्ध में संरक्षण By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/10/10.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/10/10.mp4",
       },
       {
         id: 7625,
         name: "Lecture-11 भाग- 3, (मूल अधिकार), Article-21 प्राण और दैहिक स्वतंत्रता का संरक्षण By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/11/11.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/11/11.mp4",
       },
       {
         id: 7626,
         name: "Lecture-12 भाग- 3, (मूल अधिकार), Article-22 कुछ दशाओं में गिरफ़्तारी और निरोध से संरक्षण By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/12/12.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/12/12.mp4",
       },
       {
         id: 7627,
         name: "Lecture-13 भाग- 3, (मूल अधिकार), Article-23/24 शोषण के विरुद्ध अधिकार By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/13/13.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/13/13.mp4",
       },
       {
         id: 7628,
         name: "Lecture-14 भाग- 3, (मूल अधिकार), Article-25 धार्मिक स्वतंत्रता का अधिकार By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/14/14.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/14/14.mp4",
       },
       {
         id: 7629,
         name: "Lecture-15 भाग- 3, (मूल अधिकार), Article-25-28 धार्मिक स्वतंत्रता का अधिकार By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/15/15.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/15/15.mp4",
       },
       {
         id: 7630,
         name: "Lecture-16 भाग- 3, (मूल अधिकार), Article-29/30 संस्कृति और शिक्षा सम्बन्धी अधिकार By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/16/16.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/16/16.mp4",
       },
       {
         id: 7631,
         name: "Lecture- 17 भाग- 3, (मूल अधिकार), Article-31 संपत्ति का अधिकार By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/17/17.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/17/17.mp4",
       },
       {
         id: 7632,
         name: "Lecture-18 भाग- 3, (मूल अधिकार), Article-32 संवैधानिक उपचारों का अधिकार By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/18/18.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/18/18.mp4",
       },
       {
         id: 7633,
         name: "Lecture-19 भाग- 3, (मूल अधिकार), Article-32/33 By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/19/19.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/19/19.mp4",
       },
       {
         id: 7634,
         name: "Lecture-20 भाग- 3, (मूल अधिकार), Article-34/35 By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/20/20.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/20/20.mp4",
       },
       {
         id: 7636,
         name: "Lecture-21 भाग- 3, (मूल अधिकार), मूल अधिकारों का संशोधन, DPSP By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/L21/l21.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/L21/l21.mp4",
       },
       {
         id: 7638,
         name: "Lecture-22 भाग- 4 (राज्य के निति निदेशक तत्व) By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/21/21.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/21/21.mp4",
       },
       {
         id: 7639,
         name: "Lecture-23 भाग-4 (राज्य के  नीति निर्देशक तत्व, समान नागरिक संहिता) By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/23/23.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/23/23.mp4",
       },
       {
         id: 7640,
         name: "Lecture-24 भाग- 4A (मूल कर्त्तव्य )",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/polity/l24/24.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/polity/l24/24.mp4",
       },
       {
         id: 7642,
         name: "Lecture-25 भाग- 5 (संघ सरकार) By Rajesh Mishra Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-25-polity-upsc-hin/l-25-polity-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-25-polity-upsc-hin/l-25-polity-upsc-hin.mp4",
       },
       {
         id: 7644,
         name: "Lecture-26 भाग-5, संघ और राज्य के बीच शक्तियों का विभाजन By Rajesh Mishra Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-26-polity-upsc-hin/l-26-polity-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-26-polity-upsc-hin/l-26-polity-upsc-hin.mp4",
       },
       {
         id: 7646,
         name: "Lecture-28 भाग-5, भारत संघ की विशेषता By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/26/26.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/26/26.mp4",
       },
       {
         id: 7647,
         name: "Lecture-29 भाग-5, संघ सरकार By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/29/29.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/29/29.mp4",
       },
       {
         id: 7648,
         name: "Lecture-30 भाग-5, संघ सरकार By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/30/30.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/30/30.mp4",
       },
       {
         id: 7649,
         name: "Lecture-31 भाग-5, संघ सरकार By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/31/31.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/31/31.mp4",
       },
       {
         id: 7650,
         name: "Lecture-32 भाग-5, संघ सरकार By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/32/32.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/32/32.mp4",
       },
       {
         id: 7653,
         name: "Lecture-33 भाग-5, संघ सरकार By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/33/33.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/33/33.mp4",
       },
       {
         id: 7654,
         name: "Lecture-34 अध्यक्षीय शासन/ मंत्रिमंडल और मंत्रिपरिषद By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/34/34.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/34/34.mp4",
       },
       {
         id: 7655,
         name: "Lecture-35 मंत्रिमंडल और मंत्रिपरिषद By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/35/35.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/35/35.mp4",
       },
       {
         id: 7656,
         name: "Lecture-36 लोकसभा और राज्यसभा By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/36/36.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/36/36.mp4",
       },
       {
         id: 7657,
         name: "Lecture-37 राज्यसभा  By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/37/37.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/37/37.mp4",
       },
       {
         id: 7658,
         name: "Lecture-38 लोकसभा Part 01 By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/38/38.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/38/38.mp4",
       },
       {
         id: 7659,
         name: "Lecture-38 लोकसभा Part 02  By Rajesh Mishra sir Part 02",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/38(2)/38(2).m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/38(2)/38(2).mp4",
       },
       {
         id: 7660,
         name: "Lecture-39 संसद ( विधि निर्माण की प्रक्रिया )  By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/39/39.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/39/39.mp4",
       },
       {
         id: 7661,
         name: "Lecture-40 संसद का कार्यपालिका पर वित्तीय नियंत्रण  By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/40/40.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/40/40.mp4",
       },
       {
         id: 7662,
         name: "Lecture-41  बजट  By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/41/41.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/41/41.mp4",
       },
       {
         id: 7663,
         name: "Lecture-42 बजट ( धन विधेयक और वित्त विधेयक ) By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/42/42.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/42/42.mp4",
       },
       {
         id: 7664,
         name: "Lecture-43 दल बदल कानून By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/43/43.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/43/43.mp4",
       },
       {
         id: 7665,
         name: "Lecture-44 अध्यादेश  By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/44/44.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/44/44.mp4",
       },
       {
         id: 7667,
         name: "Lecture-45 संसदीय प्रस्ताव और संकल्प  By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/45/45.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/45/45.mp4",
       },
       {
         id: 7669,
         name: "Lecture-46 संसदीय विशेषाधिकार  By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/46/46.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/46/46.mp4",
       },
       {
         id: 7670,
         name: "Lecture-47 संसदीय समितियां और कुछ तथ्य  By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/47/47.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/47/47.mp4",
       },
       {
         id: 7671,
         name: "Lecture-48 राष्ट्रपति By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/48/48.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/48/48.mp4",
       },
       {
         id: 7672,
         name: "Lecture-49 राष्ट्रपति  By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/49/49.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/49/49.mp4",
       },
       {
         id: 7673,
         name: "Lecture-50 राष्ट्रपति  By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/50/50.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/50/50.mp4",
       },
       {
         id: 7674,
         name: "Lecture-51 राष्ट्रीय आपातकाल By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/51/51.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/51/51.mp4",
       },
       {
         id: 7675,
         name: "Lecture-52 वित्तीय आपातकाल By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/52/52.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/52/52.mp4",
       },
       {
         id: 7676,
         name: "Lecture-53 राष्ट्रपति और उपराष्ट्रपति By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/53/53.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/53/53.mp4",
       },
       {
         id: 7677,
         name: "Lecture-54 न्यायपालिका By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/54/54.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/54/54.mp4",
       },
       {
         id: 7680,
         name: "Lecture-55 न्यायपालिका Part-02 By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/55/55.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/55/55.mp4",
       },
       {
         id: 7681,
         name: "Lecture-56 उच्चतम न्यायालय By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/56/56.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/56/56.mp4",
       },
       {
         id: 7683,
         name: "Lecture-57 संविधान की आधारभूत संरचना  By Rajesh Mishra sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/57/57.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/57/57.mp4",
       },
       {
         id: 7685,
         name: "Lecture-58 न्यायिक पुनरावलोकन और उच्च न्यायालय  By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/58/58.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/58/58.mp4",
       },
       {
         id: 7686,
         name: "Lecture-59 न्यायालय की अवमानना  By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/59/59.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/59/59.mp4",
       },
       {
         id: 7687,
         name: "Lecture-60 अधिकरण, लोक अदालत और ग्राम न्यायालय  By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/60/60.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/60/60.mp4",
       },
       {
         id: 7690,
         name: "Lecture-61 पंचायती राज  By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/61/61.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/61/61.mp4",
       },
       {
         id: 7694,
         name: "Lecture-62 पंचायती राज Part-02  By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/62/62.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/62/62.mp4",
       },
       {
         id: 7695,
         name: "Lecture-63 पंचायती राज Part-03 By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/63/63.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/63/63.mp4",
       },
       {
         id: 7698,
         name: "Lecture-64 Indian Polity Doubt Session By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/64/64.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/64/64.mp4",
       },
       {
         id: 7704,
         name: "Lecture-65 भारतीय संविधान की प्रस्तावना Part -01  By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/65/65.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/65/65.mp4",
       },
       {
         id: 7705,
         name: "Lecture-66 भारतीय संविधान की प्रस्तावना Part -02  By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/66/66.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/66/66.mp4",
       },
       {
         id: 7706,
         name: "Lecture-67 नियंत्रक एवं महालेखा परीक्षक( CAG )  By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/67/67.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/67/67.mp4",
       },
       {
         id: 7707,
         name: "Lecture-68 निर्वाचन आयोग  By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/68/68.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/68/68.mp4",
       },
       {
         id: 7708,
         name: "Lecture-69 नागरिकता By Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/69/69.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/69/69.mp4",
       },
       {
         id: 7709,
         name: "Lecture-70 Doubt session by Rajesh Mishra Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/70/70.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/70/70.mp4",
       },
       {
         id: 7645,
         name: "Lecture-27 भाग-5 संघ और राज्य के बीच शक्तियों का विभाजन",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/26+-+Copy/26-Copy.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/26+-+Copy/26-Copy.mp4",
       },
       {
         id: 8818,
@@ -1049,266 +1049,222 @@ export const lessons = [
       {
         id: 836,
         name: "Lecture-02 Basics of Modern Indian History  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L2/L2.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/838.mp4",
       },
       {
         id: 837,
         name: "Lecture-03 First Half of 18th Century(1707-56)  [Part-01]  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L3/L3.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/837.mp4",
       },
       {
         id: 838,
         name: "Lecture-04 First Half of 18th Century(1707-56)  [Part-02]  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L4/L4.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/838.mp4",
       },
       {
         id: 839,
         name: "Lecture-05 Second Half of 18th Century (After 1757)  [Part-01]  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L5/L5.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/839.mp4",
       },
       {
         id: 840,
         name: "Lecture-06 Second Half of 18th Century (After 1757)  [Part-02]  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L6/L6.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/840.mp4",
       },
       {
         id: 841,
         name: "Lecture-07 Second Half of 18th Century (After 1757)  [Part-03]  By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-07-modern-his-upsc-hin/l-07-modern-his-upsc-hin.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/841.mp4",
       },
       {
         id: 842,
         name: "Lecture - 08 Mercantile Phase of Colonialism [1757-1813] (Part-01)  By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-08-modern-his-upsc-hin/l-08-modern-his-upsc-hin.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/842.mp4",
       },
       {
         id: 843,
         name: "Lecture - 09 Mercantile Phase of Colonialism [1757-1813] (Part-02)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L9/L9.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/843.mp4",
       },
       {
         id: 844,
         name: "Lecture - 10 Mercantile Phase of Colonialism [1757-1813] (Part-03)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/l10/l10.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/844.mp4",
       },
       {
         id: 845,
         name: "Lecture - 11 Mercantile Phase of Colonialism [1757-1813] (Part-04)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L11/L11.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/845.mp4",
       },
       {
         id: 846,
         name: "Lecture - 12 Industrial Phase of Colonialism [1813-1858]  (Part-01)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L12/L12.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/846.mp4",
       },
       {
         id: 847,
         name: "Lecture - 13 Industrial Phase of Colonialism [1813-1858]  (Part-02)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L13/L13.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/847.mp4",
       },
       {
         id: 848,
         name: "Lecture - 14 Industrial Phase of Colonialism [1813-1858]  (Part-03)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L14/L14.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/848.mp4",
       },
       {
         id: 849,
         name: "Lecture - 15 Industrial Phase of Colonialism [1813-1858]  (Part-04)  By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-15-modern-historyupsc-hin/l-15-modern-historyupsc-hin.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/849.mp4",
       },
       {
         id: 850,
         name: "Lecture - 16 Industrial Phase of Colonialism [1813-1858]  (Part-05)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L16/L16.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/850.mp4",
       },
       {
         id: 851,
         name: "Lecture - 17 Financial Phase of Colonialism [After 1858]  (Part-01)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/l17/l17.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/851.mp4",
       },
       {
         id: 852,
         name: "Lecture - 18 Financial Phase of Colonialism [After 1858]  (Part-02)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L18/L18.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/852.mp4",
       },
       {
         id: 853,
         name: "Lecture - 19 Nationalism [Revolt of 1857] (Part-01)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L19/L19.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/853.mp4",
       },
       {
         id: 854,
         name: "Lecture - 20 Nationalism [Revolt of 1857] (Part-02)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L20/L20.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/854.mp4",
       },
       {
         id: 855,
         name: "Lecture - 21 Nationalism [Religious Reform Movement] (Part-01)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L21/L21.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/855.mp4",
       },
       {
         id: 856,
         name: "Lecture - 22 Nationalism [Religious Reform Movement] (Part-02)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L22/L22.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/856.mp4",
       },
       {
         id: 857,
         name: "Lecture - 23 Nationalism [Indian National Congress 1885-1907 ] (Part-01)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L23/L23.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/857.mp4",
       },
       {
         id: 858,
         name: "Lecture - 24 Nationalism [Indian National Congress 1885-1907 ] (Part-02)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L24/L24.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/858.mp4",
       },
       {
         id: 859,
         name: "Lecture - 25  Nationalism [Indian National Movement 1907-1914 ]  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/25/25.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/859.mp4",
       },
       {
         id: 860,
         name: "Lecture - 26 Nationalism [ Indian National Movement and Gandhi's Rise 1914- 1919 ] (Part-01)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/26/26.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/860.mp4",
       },
       {
         id: 861,
         name: "Lecture - 27 Nationalism [ Indian National Movement and Gandhi's Rise 1914- 1919 ] (Part-02)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/27/27.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/861.mp4",
       },
       {
         id: 862,
         name: "Lecture - 28  Nationalism [Indian National Movement 1919-1929 ] (Part-01)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/28/28.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/862.mp4",
       },
       {
         id: 863,
         name: "Lecture - 29  Nationalism [Indian National Movement 1919-1929 ] (Part-02)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/29/29.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/863.mp4",
       },
       {
         id: 864,
         name: "Lecture -30 Nationalism [Indian National Movement 1919-1929 ] (Part-03)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/30/30.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/864.mp4",
       },
       {
         id: 865,
         name: "Lecture - 31 Nationalism [Indian National Movement 1929-1939 ] (Part-01)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/31/31.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/865.mp4",
       },
       {
         id: 866,
         name: "Lecture - 32 Nationalism [Indian National Movement 1929-1939 ] (Part-02)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/32/32.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/866.mp4",
       },
       {
         id: 867,
         name: "Lecture - 33 Nationalism [Indian National Movement 1929-1939 ] (Part-03)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/33/33.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/867.mp4",
       },
       {
         id: 868,
         name: "Lecture - 34 Nationalism [Indian National Movement 1939-1945]  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/34/34.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/868.mp4",
       },
       {
         id: 7521,
         name: "Lecture - 35 Nationalism [Indian National Movement [1945-1947 ] (Part-01)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/35/35.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7521.mp4",
       },
       {
         id: 7522,
         name: "Lecture - 36 Nationalism [Indian National Movement 1945-1947 ] (Part-02)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/36/36.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7522.mp4",
       },
       {
         id: 7523,
         name: "Lecture - 37 India after Independence (Part-01)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/37/37.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7523.mp4",
       },
       {
         id: 7524,
         name: "Lecture - 38 India after Independence (Part-02)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/38/38.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7524.mp4",
       },
       {
         id: 7525,
         name: "Lecture - 39 India after Independence (Part-03)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/39/39.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7525.mp4",
       },
       {
         id: 7526,
         name: "Lecture - 40 India after Independence (Part-04)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/40/40.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7526.mp4",
       },
       {
         id: 7527,
         name: "Lecture - 41 India after Independence (Part-05)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/41/41.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7527.mp4",
       },
       {
         id: 7528,
         name: "Lecture - 42 India after Independence (Part-06)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/l42/l42.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7528.mp4",
       },
       {
         id: 7529,
         name: "Lecture - 43 India after Independence (Part-07)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/l43/l43.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7529.mp4",
       },
       {
         id: 7530,
         name: "Lecture - 44 India after Independence (Part-08)  By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/l44/l44.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7530.mp4",
       },
       {
         id: 835,
         name: "Lecture-01 Strategy to Prepare Modern History By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/modern-history/L1/L1.m3u8",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/835.mp4",
       },
     ],
   },
@@ -1362,85 +1318,85 @@ export const lessons = [
         id: 12970,
         name: "Lecture- 40 समकालीन विश्व Part-03 By Manikant Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/history/l-40/l40.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/history/l-40/l40.mp4",
       },
       {
         id: 12851,
         name: "Lecture- 39 समकालीन विश्व Part-02 By Manikant Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/history/l-39/l39.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/history/l-39/l39.mp4",
       },
       {
         id: 12773,
         name: "Lecture- 38 समकालीन विश्व Part-01 By Manikant Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/history/l-38/l-38.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/history/l-38/l-38.mp4",
       },
       {
         id: 12562,
         name: "Lecture- 37 विश्वयुद्धोत्तर विश्व की दशा एवं दिशा Part-02 By Manikant Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/history/l-37/37.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/history/l-37/37.mp4",
       },
       {
         id: 12252,
         name: "Lecture- 36 विश्वयुद्धोत्तर विश्व की दशा एवं दिशा Part-01 By Manikant Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/history/l-36/36.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/history/l-36/36.mp4",
       },
       {
         id: 12065,
         name: "Lecture-35 द्वितीय विश्व युद्ध के बाद यूरोप Part-2 By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l35/l35.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l35/l35.mp4",
       },
       {
         id: 11727,
         name: "Lecture-34 द्वितीय विश्व युद्ध के बाद यूरोप by Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l34/lecture-34worldhistorybymanikantsir.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l34/lecture-34worldhistorybymanikantsir.mp4",
       },
       {
         id: 11509,
         name: "Lecture-33 नाज़ीवाद और फ़ासीवाद भाग- 3 By Manikant sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l33/l33.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l33/l33.mp4",
       },
       {
         id: 11377,
         name: "Lecture-32 नाज़ीवाद और फ़ासीवाद भाग- 2 By Manikant sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l32/l32.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l32/l32.mp4",
       },
       {
         id: 11192,
         name: "Lecture-31 नाज़ीवाद और फ़ासीवाद भाग- 1 By Manikant sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l31/l31.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l31/l31.mp4",
       },
       {
         id: 11012,
         name: "Lecture-30 विश्व आर्थिक मंदी By Manikant sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l30/l30.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l30/l30.mp4",
       },
       {
         id: 10881,
         name: "Lecture-29 रूस की क्रांति पार्ट-02 By Manikant sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l29/l29.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l29/l29.mp4",
       },
       {
         id: 10821,
         name: "Lecture-28 रूस की क्रांति By Manikant sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l28/l28.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l28/l28.mp4",
       },
       {
         id: 10708,
         name: "Lecture-27 पेरिस शांति सम्मलेन By Manikant sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l27/l27.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l27/l27.mp4",
       },
       {
         id: 10714,
@@ -1458,7 +1414,7 @@ export const lessons = [
         id: 10543,
         name: "Lecture-26 प्रथम विश्व युद्ध By Manikant sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l26/l26.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l26/l26.mp4",
       },
       {
         id: 10603,
@@ -1542,37 +1498,37 @@ export const lessons = [
         id: 10349,
         name: "Lecture- 25 उपनिवेशवाद एवं साम्राज्यवाद Part-02 By Manikant sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l25/l25.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l25/l25.mp4",
       },
       {
         id: 10259,
         name: "Lecture- 24 उपनिवेशवाद एवं साम्राज्यवाद Part-01 By Manikant sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l24/l24.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l24/l24.mp4",
       },
       {
         id: 10113,
         name: "Lecture-23 समाजवाद एवं मार्क्सवाद Part-02 By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l23/l-23.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l23/l-23.mp4",
       },
       {
         id: 9370,
         name: "Lecture-22 समाजवाद एवं मार्क्सवाद Part-01 By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l22/l-22%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%8F%E0%A4%B5%E0%A4%82%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%B5%E0%A4%BE%E0%A4%A6worhishinmid9junbymanikantsir.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l22/l-22%E0%A4%B8%E0%A4%AE%E0%A4%BE%E0%A4%9C%E0%A4%B5%E0%A4%BE%E0%A4%A6%E0%A4%8F%E0%A4%B5%E0%A4%82%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%95%E0%A5%8D%E0%A4%B8%E0%A4%B5%E0%A4%BE%E0%A4%A6worhishinmid9junbymanikantsir.mp4",
       },
       {
         id: 9281,
         name: "Lecture-21 औद्योगिक क्रांति Part-03 by Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l-21/lecture-21industrialrevolutionpart-03bymanikantsir.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l-21/lecture-21industrialrevolutionpart-03bymanikantsir.mp4",
       },
       {
         id: 9136,
         name: "Lecture-20 औद्योगिक क्रांति Part-02 By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l20/l20.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l20/l20.mp4",
       },
       {
         id: 9236,
@@ -1584,115 +1540,115 @@ export const lessons = [
         id: 8885,
         name: "Lecture-19 औद्योगिक क्रांति Part-01 By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l19/l19.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l19/l19.mp4",
       },
       {
         id: 8831,
         name: "Lecture-17 1815 के बाद का यूरोप Part-03 (इटली और जर्मनी का एकीकरण) By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l17/l17.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l17/l17.mp4",
       },
       {
         id: 8863,
         name: "Lecture-10 अमेरिकी क्रांति Part-03 By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l10/l10.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l10/l10.mp4",
       },
       {
         id: 7712,
         name: "Lecture-01 World History Introduction Class By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/L1/L1.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/L1/L1.mp4",
       },
       {
         id: 7713,
         name: "Lecture-2 प्राचीन विश्व का उद्भव By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/2/2.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/2/2.mp4",
       },
       {
         id: 7714,
         name: "Lecture-3 मध्यकालीन यूरोप का इतिहास By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/L3/L3.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/L3/L3.mp4",
       },
       {
         id: 7715,
         name: "Lecture-4 पुनर्जागरण By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/L4/L4.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/L4/L4.mp4",
       },
       {
         id: 7716,
         name: "Lecture-5 धर्मसुधार आंदोलन By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/L5/L5.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/L5/L5.mp4",
       },
       {
         id: 7717,
         name: "Lecture-6 तीस वर्षीय युद्ध एवं वेस्टफेलिया की संधि By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/L6/L6.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/L6/L6.mp4",
       },
       {
         id: 7718,
         name: "Lecture-7 प्रबोधन By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/L7/L7.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/L7/L7.mp4",
       },
       {
         id: 7719,
         name: "Lecture-8 अमेरिकी क्रांति एवं गृह युद्ध By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l8/l8.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l8/l8.mp4",
       },
       {
         id: 7720,
         name: "Lecture-9 अमेरिकी क्रांति एवं गृह युद्ध Part-02 By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l9/l9.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l9/l9.mp4",
       },
       {
         id: 7849,
         name: "Lecture-11 फ्रांसीसी क्रांति Part-01 By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l11/l11.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l11/l11.mp4",
       },
       {
         id: 7850,
         name: "Lecture-12 फ्रांसीसी क्रांति Part-02 By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l12/l12.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l12/l12.mp4",
       },
       {
         id: 7967,
         name: "Lecture-13 फ्रांसीसी क्रांति Part-03 By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l13/l13.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l13/l13.mp4",
       },
       {
         id: 8170,
         name: "Lecture-14 फ्रांसीसी क्रांति Part-04 By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upscH(WorldHistory)/l14/l14.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upscH(WorldHistory)/l14/l14.mp4",
       },
       {
         id: 8230,
         name: "Lecture-15 1815 के बाद का यूरोप पार्ट- 01 By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l15/l15.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l15/l15.mp4",
       },
       {
         id: 8349,
         name: "Lecture-16 1815 के बाद का यूरोप पार्ट-02 By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l16/l16.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/l16/l16.mp4",
       },
       {
         id: 8796,
         name: "Lecture-18 1815 के बाद का यूरोप पार्ट- 04 By Manikant sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/18/18.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/upsc-wh23/18/18.mp4",
       },
       {
         id: 8830,
@@ -1752,13 +1708,13 @@ export const lessons = [
         id: 21612,
         name: "Lecture-36 आधुनिक भारत में स्थापत्य कला, चित्रकला एवं शिक्षा By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-36/l-36-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-36/l-36-arts-culture-upsc-hin.mp4",
       },
       {
         id: 21344,
         name: "Lecture-35 आधुनिक भारत की संस्कृति एवं विरासत By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-35/l-35-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-35/l-35-arts-culture-upsc-hin.mp4",
       },
       {
         id: 21488,
@@ -1824,31 +1780,31 @@ export const lessons = [
         id: 21211,
         name: "Lecture-34 विजयनगर साम्राज्य By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-34/l-34-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-34/l-34-arts-culture-upsc-hin.mp4",
       },
       {
         id: 21053,
         name: "Lecture-33 मध्यकालीन संगीतकला By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-33/l-33-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-33/l-33-arts-culture-upsc-hin.mp4",
       },
       {
         id: 20882,
         name: "Lecture-32 मध्यकालीन चित्रकला By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-32/l-32-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-32/l-32-arts-culture-upsc-hin.mp4",
       },
       {
         id: 20689,
         name: "Lecture-31 मध्यकालीन स्थापत्य कला By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-31/l-31-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-31/l-31-arts-culture-upsc-hin.mp4",
       },
       {
         id: 20475,
         name: "Lecture-30 मध्यकालीन साहित्य एवं शिक्षा By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-30/l-30-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-30/l-30-arts-culture-upsc-hin.mp4",
       },
       {
         id: 20530,
@@ -1902,13 +1858,13 @@ export const lessons = [
         id: 20317,
         name: "Lecture-29 मध्यकालीन संस्कृति (Part-02) By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/l29manikantsir/l29manikantsir.m3u8",
+          "https://1805429809.rsc.cdn77.org/l29manikantsir/l29manikantsir.mp4",
       },
       {
         id: 19902,
         name: "Lecture-28 मध्यकालीन संस्कृति  (Part-01) By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/l28manikantsir/l28manikantsir.m3u8",
+          "https://1805429809.rsc.cdn77.org/l28manikantsir/l28manikantsir.mp4",
       },
       {
         id: 20013,
@@ -1968,7 +1924,7 @@ export const lessons = [
         id: 19646,
         name: "Lecture-27 मध्यकालीन अर्थव्यवस्था By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-27/l-27-art-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-27/l-27-art-culture-upsc-hin.mp4",
       },
       {
         id: 19938,
@@ -2070,19 +2026,19 @@ export const lessons = [
         id: 19344,
         name: "Lecture-26 मध्यकालीन प्रशासन (Part-02) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-26/l-26-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-26/l-26-arts-culture-upsc-hin.mp4",
       },
       {
         id: 19315,
         name: "Lecture-25 मध्यकालीन प्रशासन  (Part-01) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-25/l-25-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-25/l-25-arts-culture-upsc-hin.mp4",
       },
       {
         id: 19076,
         name: "Lecture-24 मुगल काल (Part-01) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-24/l-24-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-24/l-24-arts-culture-upsc-hin.mp4",
       },
       {
         id: 19352,
@@ -2112,7 +2068,7 @@ export const lessons = [
         id: 18927,
         name: "Lecture-23 सल्तनत काल (Part-02) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-23/l-23-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-23/l-23-arts-culture-upsc-hin.mp4",
       },
       {
         id: 19233,
@@ -2208,79 +2164,79 @@ export const lessons = [
         id: 18600,
         name: "Lecture-22 सल्तनत काल (Part-01) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-22/l-22-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-22/l-22-arts-culture-upsc-hin.mp4",
       },
       {
         id: 18465,
         name: "Lecture-21 मध्यकाल में इस्लाम का प्रसार By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-21/l-21-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-21/l-21-arts-culture-upsc-hin.mp4",
       },
       {
         id: 18291,
         name: "Lecture-20 प्राचीन भारत में नृत्य एवं संगीत कला तथा विज्ञान एवं तकनीकी का विकास By Manikant Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/L20manikantsir/L20manikantsir.m3u8",
+          "https://1805429809.rsc.cdn77.org/L20manikantsir/L20manikantsir.mp4",
       },
       {
         id: 18081,
         name: "Lecture-19 प्राचीन भारत में चित्रकला का विकास By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-19/l-19-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-19/l-19-arts-culture-upsc-hin.mp4",
       },
       {
         id: 17869,
         name: "Lecture-18 प्राचीन भारत में मूर्तिकला का विकास By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-18/l-18-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-18/l-18-arts-culture-upsc-hin.mp4",
       },
       {
         id: 17683,
         name: "Lecture-17 प्राचीन भारत में स्थापत्य कला By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-17/l-17-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-17/l-17-arts-culture-upsc-hin.mp4",
       },
       {
         id: 17203,
         name: "Lecture-16 प्राचीन भारत में भाषा एवं साहित्य By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-16/l-16-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-16/l-16-arts-culture-upsc-hin.mp4",
       },
       {
         id: 17029,
         name: "Lecture-15 प्राचीन भारत में धर्म एवं दर्शन (Part-02) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-15/l-15-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-15/l-15-arts-culture-upsc-hin.mp4",
       },
       {
         id: 16822,
         name: "Lecture-14 प्राचीन भारत में धर्म एवं दर्शन (Part-01) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-14/l-14-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-14/l-14-arts-culture-upsc-hin.mp4",
       },
       {
         id: 16496,
         name: "Lecture-13 प्राचीन भारतीय संस्कृति एवं विरासत (Part-02) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-13/l-13-history-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-13/l-13-history-upsc-hin.mp4",
       },
       {
         id: 16331,
         name: "Lecture 12 प्राचीन भारतीय संस्कृति एवं विरासत (Part-01) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-12/l-12-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-12/l-12-arts-culture-upsc-hin.mp4",
       },
       {
         id: 16236,
         name: "Lecture 11 गुप्तकाल, गुप्तोत्तर काल तथा पूर्वमध्य काल की आर्थिक और सामाजिक स्थिति (Part-02) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-11/l-11-arts-culture-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-11/l-11-arts-culture-upsc-hin.mp4",
       },
       {
         id: 16039,
         name: "Lecture-10 गुप्तकाल, गुप्तोत्तर काल तथा पूर्वमध्य काल की आर्थिक और सामाजिक स्थिति  (Part-01) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-10/10.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-10/10.mp4",
       },
       {
         id: 16257,
@@ -2298,13 +2254,13 @@ export const lessons = [
         id: 15860,
         name: "Lecture-09 गुप्तकाल, गुप्तोत्तर काल तथा पूर्वमध्य काल की राजनीतिक स्थिति (Part-02) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-9/l-9-history-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-9/l-9-history-upsc-hin.mp4",
       },
       {
         id: 15472,
         name: "Lecture-08 गुप्तकाल, गुप्तोत्तर काल तथा पूर्वमध्य काल की राजनीतिक स्थिति (Part-01) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/old-backups/l-8-arts&culture-upsc-hin/l8.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/old-backups/l-8-arts&culture-upsc-hin/l8.mp4",
       },
       {
         id: 15955,
@@ -2334,19 +2290,19 @@ export const lessons = [
         id: 15021,
         name: "Lecture-07 बुद्ध काल अथवा महाजनपद काल By Manikant Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ancient-history/l7/lecture07ancient-medievalhistoryandart-culturebymanikantsir.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ancient-history/l7/lecture07ancient-medievalhistoryandart-culturebymanikantsir.mp4",
       },
       {
         id: 14446,
         name: "Lecture 06 वैदिक काल: राज्य, साम्राज्य, राजवंश एवं शासक By Manikant Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ancient-history/l6/l6.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ancient-history/l6/l6.mp4",
       },
       {
         id: 14619,
         name: "Lecture 05 हड़प्पा सभ्यता और संस्कृति By Manikant Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ancient-history/l5/l5.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ancient-history/l5/l5.mp4",
       },
       {
         id: 14954,
@@ -2364,13 +2320,13 @@ export const lessons = [
         id: 14451,
         name: "Lecture 04 पूर्व ऐतिहासिक काल एवं आद्य ऐतिहासिक काल-03 By Manikant Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/17th-july/l-4-history-upsc-hin/l-4-history-upsc-hin.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/17th-july/l-4-history-upsc-hin/l-4-history-upsc-hin.mp4",
       },
       {
         id: 14272,
         name: "Lecture 03 पूर्व ऐतिहासिक काल एवं आद्य ऐतिहासिक काल-02 By Manikant Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/14th-july/l-3-history/3.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/14th-july/l-3-history/3.mp4",
       },
       {
         id: 14136,
@@ -2620,175 +2576,175 @@ export const lessons = [
         id: 7532,
         name: "Lecture-02 Introduction Of America By Sachin Arora sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L2/L2.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L2/L2.mp4",
       },
       {
         id: 7533,
         name: "Lecture-03 North America Part 01 By Sachin Arora sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L3/L3.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L3/L3.mp4",
       },
       {
         id: 7534,
         name: "Lecture-04 North America Part-02 By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L4/L4.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L4/L4.mp4",
       },
       {
         id: 7535,
         name: "Lecture-05 South America Part-01By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L5/L5.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L5/L5.mp4",
       },
       {
         id: 7536,
         name: "Lecture-06 South America Part-02 By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L6/L6.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L6/L6.mp4",
       },
       {
         id: 7537,
         name: "Lecture-07 Principles of World Physical geography Part-01 By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L7/L7.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L7/L7.mp4",
       },
       {
         id: 7538,
         name: "Lecture-08 Physical Geography of Africa Part-1 By Sachin Arora sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L8/L8.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L8/L8.mp4",
       },
       {
         id: 7539,
         name: "Lecture-09 Physical Geography of Africa Part-2 By Sachin Arora sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L9/L9.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L9/L9.mp4",
       },
       {
         id: 7540,
         name: "Lecture-10 Principles of atmosphere  By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L10/L10.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L10/L10.mp4",
       },
       {
         id: 7541,
         name: "Lecture-11 Oceania Part 01 By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L11/L11.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L11/L11.mp4",
       },
       {
         id: 7542,
         name: "Lecture-12 Principles of atmosphere Part-02 By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L12/L12.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L12/L12.mp4",
       },
       {
         id: 7543,
         name: "Lecture-13 Oceania Part-02 By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L13/L13.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L13/L13.mp4",
       },
       {
         id: 7544,
         name: "Lecture-14 Europe Part-01 By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L14/L14.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L14/L14.mp4",
       },
       {
         id: 7545,
         name: "Lecture-15 Europe Part-02 By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L15/L15.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L15/L15.mp4",
       },
       {
         id: 7546,
         name: "Lecture-16 : Asia part 01 Geography By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L16/L16.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L16/L16.mp4",
       },
       {
         id: 7547,
         name: "Lecture-17  :Natural Vegetation of the World  | Geography By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L17/L17.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L17/L17.mp4",
       },
       {
         id: 7548,
         name: "Lecture-18  :Asia Part 02  | Geography By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L18/L18.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L18/L18.mp4",
       },
       {
         id: 7549,
         name: "Lecture-19: World Economic Geography part 01 And World Resources By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L19/L19.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L19/L19.mp4",
       },
       {
         id: 7550,
         name: "Lecture-20: World Economic Geography part 02 And World Metal Resources By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L20/L20.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L20/L20.mp4",
       },
       {
         id: 7551,
         name: "Lecture-21: World Economic Geography part 03 And World Metal Resources By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L21/L21.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L21/L21.mp4",
       },
       {
         id: 7552,
         name: "Lecture-22: World Economic Geography part 04 And World Energy Resources By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L22/L22.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L22/L22.mp4",
       },
       {
         id: 7553,
         name: "Lecture-23: World Economic Geography part 05 And World Energy Resources By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L23/L23.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L23/L23.mp4",
       },
       {
         id: 7554,
         name: "Lecture-24: World Economic Geography part 06 And World Energy Resources By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L24/L24.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L24/L24.mp4",
       },
       {
         id: 7555,
         name: "Lecture-25: विश्व बायोम (विश्व जलवायु और जैविक क्षेत्र) By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L25/L25.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L25/L25.mp4",
       },
       {
         id: 7556,
         name: "Lecture-26:  विश्व बायोम 02  By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L26/L26.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L26/L26.mp4",
       },
       {
         id: 7557,
         name: "Lecture-27: World Industries Part-01  By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L27/L27.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L27/L27.mp4",
       },
       {
         id: 7558,
         name: "Lecture-28: World Industries Part-02  By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L28/L28.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L28/L28.mp4",
       },
       {
         id: 7559,
         name: "Lecture-29: World Industries Part-03 & Asia Continent 03  By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L29/L29.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L29/L29.mp4",
       },
       {
         id: 7531,
         name: "Lecture-01 World Geography Orientation Class by Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/l1/L1.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/l1/L1.mp4",
       },
     ],
   },
@@ -2800,37 +2756,37 @@ export const lessons = [
         id: 35595,
         name: "Lecture-32 पृथ्वी - जलमंडल 6 : महासागरीय ज्वार-भाटा By Sachin Arora Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/geography/l-32/l-32-gen-geo-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/geography/l-32/l-32-gen-geo-upsc-hin.mp4",
       },
       {
         id: 35354,
         name: "Lecture- 31 पृथ्वी - पृथ्वी - जलमंडल 5 : महासागरीय लवणता एव सुनामी  By Sachin Arora Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/35354/kgss-1700791441-v35354.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/35354/kgss-1700791441-v35354.mp4",
       },
       {
         id: 35047,
         name: "Lecture- 30 पृथ्वी - जलमंडल 4 : महासागरीय जल धारा  02 By Sachin Arora Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/35047/kgss-1700705723-v35047.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/35047/kgss-1700705723-v35047.mp4",
       },
       {
         id: 34906,
         name: "Lecture- 29 पृथ्वी - जलमंडल 3 : महासागरीय जल धारा 01 By Sachin Arora Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34906/kgss-1700619243-v34906.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34906/kgss-1700619243-v34906.mp4",
       },
       {
         id: 34708,
         name: "Lecture- 28 पृथ्वी - जलमंडल 2 : सागर नितल 01 By Sachin Arora Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/geography/l-28/l-28-gen-geo-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/geography/l-28/l-28-gen-geo-upsc-hin.mp4",
       },
       {
         id: 33508,
         name: "Lecture- 27 पृथ्वी - जलमंडल -1 परिचय  By Sachin Arora Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/33508/kgss-1699496476-v33508.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/33508/kgss-1699496476-v33508.mp4",
       },
       {
         id: 33156,
@@ -2841,25 +2797,25 @@ export const lessons = [
         id: 32903,
         name: "Lecture- 25 पृथ्वी - वायुमंडल 10 : वायुमंडलीय परिसंचरण 07 By Sachin Arora Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/32903/kgss-1699323671-v32903.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/32903/kgss-1699323671-v32903.mp4",
       },
       {
         id: 32578,
         name: "Lecture- 24 पृथ्वी - वायुमंडल 09 : वायुमंडलीय परिसंचरण 06 By Sachin Arora Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/geography/l-24/l-24-gen-geo-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/geography/l-24/l-24-gen-geo-upsc-hin.mp4",
       },
       {
         id: 32393,
         name: "Lecture- 23 पृथ्वी - वायुमंडल 08 : वायुमंडलीय परिसंचरण 05 By Sachin Arora Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/32393/kgss-1699064539-v32393.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/32393/kgss-1699064539-v32393.mp4",
       },
       {
         id: 31903,
         name: "Lecture- 22 पृथ्वी - वायुमंडल 07 : वायुमंडलीय परिसंचरण 04  By Sachin Arora Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/geography/l-22/l-22-gen-geo-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/geography/l-22/l-22-gen-geo-upsc-hin.mp4",
       },
       {
         id: 31891,
@@ -2907,121 +2863,121 @@ export const lessons = [
         id: 13777,
         name: "Lecture 21 पृथ्वी - वायुमंडल  06 : वायुमंडलीय परिसंचरण 03 By Sachin Arora Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/11th-july/l-21geo/l-21geo.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/11th-july/l-21geo/l-21geo.mp4",
       },
       {
         id: 13030,
         name: "Lecture-20 पृथ्वी- वायुमंडल 05: वायुमंडलीय परिसंचरण 02 By Sachin Arora Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/geography/l-20geo/20g.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/geography/l-20geo/20g.mp4",
       },
       {
         id: 12852,
         name: "Lecture- 19 भूगोल :-  पृथ्वी : वायुमंडल 04 - वायुमंडलीय परिसंचरण 01 By Sachin Arora Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/geography/l-19/l19.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/geography/l-19/l19.mp4",
       },
       {
         id: 12772,
         name: "Lecture- 18 भूगोल :- पृथ्वी - वायुमंडल 03 - वायुमंडल के तत्त्व By Sachin Arora Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/geography/l-18/l-18.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/geography/l-18/l-18.mp4",
       },
       {
         id: 12560,
         name: "Lecture- 17 भूगोल :- पृथ्वी  - वायुमंडल 02 - वायुमंडल के तत्त्व By Sachin Arora Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/geography/l-17/17.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/geography/l-17/17.mp4",
       },
       {
         id: 12253,
         name: "Lecture 16 : पृथ्वी- वायुमंडल 01: उत्पत्ति, संरचना, एवं संघटन By Sachin Arora Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/geography/l-16/16.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/geography/l-16/16.mp4",
       },
       {
         id: 12064,
         name: "Lecture-15 भूगोल 10 - पृथ्वी : भूसंचलन, ज्वालामुखी, भूकंप और सुनामी By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l15/l15.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l15/l15.mp4",
       },
       {
         id: 11719,
         name: "Lecture-14 भूगोल 09 - पृथ्वी :  ज्वालामुखी By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l14/l14.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l14/l14.mp4",
       },
       {
         id: 11510,
         name: "Lecture-13 भूगोल 08 - पृथ्वी : स्थलमंडलीय भू भौतिकीय घटनाएँ By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l13/l13.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l13/l13.mp4",
       },
       {
         id: 11386,
         name: "Lecture-12 भूगोल 07 - पृथ्वी : प्लेट विवर्तनिकी By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l12/l12.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l12/l12.mp4",
       },
       {
         id: 11193,
         name: "Lecture-11 भूगोल 06 - पृथ्वी : भू - गतिशीलता By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l11/l11.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l11/l11.mp4",
       },
       {
         id: 11013,
         name: "Lecture-10 भूगोल 05 :पृथ्वी भू - चुम्बकत्व और महाद्वीपीय विस्थापन सिद्धांत By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l10/l10.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l10/l10.mp4",
       },
       {
         id: 10879,
         name: "Lecture-09 भूगोल 04 : पृथ्वी- आंतरिक संरचना और स्थलमंडल By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l9/l9/l9.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l9/l9/l9.mp4",
       },
       {
         id: 10823,
         name: "Lecture-08 भूगोल 03: पृथ्वी- आंतरिक संरचना और स्थलमंडल By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l8/l8.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l8/l8.mp4",
       },
       {
         id: 10706,
         name: "Lecture-07 भूगोल 02: पृथ्वी : आंतरिक संरचना  By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l7/l7.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l7/l7.mp4",
       },
       {
         id: 10569,
         name: "Lecture-06 भूगोल 02: पृथ्वी- स्थिति एवं संरचना By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l6/l6.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l6/l6.mp4",
       },
       {
         id: 10542,
         name: "Lecture-05 भूगोल 01: पृथ्वी की उत्पत्ति  By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l5/l5.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l5/l5.mp4",
       },
       {
         id: 10350,
         name: "Lecture-04 खगोल विज्ञान 03 : ग्रह और सौर मंडल By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/L-4/L-4.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/L-4/L-4.mp4",
       },
       {
         id: 10260,
         name: "Lecture-03 खगोल विज्ञान 02: खगोलीय पिंड By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l3/l3.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l3/l3.mp4",
       },
       {
         id: 10114,
         name: "Lecture-02 खगोल विज्ञान 01: अंतरिक्ष और इसकी उत्पत्ति By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l2/l2.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l2/l2.mp4",
       },
       {
         id: 10278,
@@ -3051,7 +3007,7 @@ export const lessons = [
         id: 9371,
         name: "Lecture-01 General Geography Introduction Class By Sachin Arora Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/L1/l-01genlgeointrclassbysachinarorasirhindimid9jun.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/L1/l-01genlgeointrclassbysachinarorasirhindimid9jun.mp4",
       },
     ],
   },
@@ -3279,19 +3235,19 @@ export const lessons = [
         id: 14448,
         name: "Lecture 40 विश्व बायोम और सतत विकास By Dr. Abhishek  Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ecology/l40/l40.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ecology/l40/l40.mp4",
       },
       {
         id: 14622,
         name: "Lecture-39 NGT & CRZ By Dr. Abhishek Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ecology/l39/l39.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ecology/l39/l39.mp4",
       },
       {
         id: 14453,
         name: "Lecture-38 पर्यावरण संरक्षण अधिनियम,1986 और पर्यावरणीय प्रभाव मूल्यांकन By Dr. Abhishek Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/17th-july/l-38-ecology-upsc-hin/l-38-ecology-upsc-hin.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/17th-july/l-38-ecology-upsc-hin/l-38-ecology-upsc-hin.mp4",
       },
       {
         id: 14271,
@@ -3308,7 +3264,7 @@ export const lessons = [
         id: 14134,
         name: "Lecture-36 जल प्रदुषण एवं समुद्रों में पेट्रोलियम तेल का प्रदुषण By Dr. Abhishek Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/13th-july/l-36-eco/l-36-eco.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/13th-july/l-36-eco/l-36-eco.mp4",
       },
       {
         id: 14421,
@@ -3356,85 +3312,85 @@ export const lessons = [
         id: 13993,
         name: "Lecture-35 अम्लीय वर्षा और वायु गुणवत्ता का मापन By Dr. Abhishek Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/12th-july/l-35eco/l-35eco.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/12th-july/l-35eco/l-35eco.mp4",
       },
       {
         id: 13645,
         name: "Lecture-34 ओज़ोन परत और ओज़ोन ह्वास By Dr. Abhishek Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/11th-july/l-34eco/l-34eco.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/11th-july/l-34eco/l-34eco.mp4",
       },
       {
         id: 13029,
         name: "Lecture-33 पर्यावरण संरक्षण के लिए अंतर्राष्ट्रीय प्रयास और भारत द्वारा किए गए प्रयास /योजना  By Dr. Abhishek Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ecology/l-33/l33.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ecology/l-33/l33.mp4",
       },
       {
         id: 12850,
         name: "Lecture- 32 जलवायु परिवर्तन पर संयुक्त राष्ट्र फ्रेमवर्क कन्वेंशन  By Dr. Abhishek Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ecology/l-32/l32.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ecology/l-32/l32.mp4",
       },
       {
         id: 12771,
         name: "Lecture- 31 ग्लोबल वार्मिंग, जलवायु परिवर्तन और ग्रीनहाउस प्रभाव का परिचय By Dr. Abhishek Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ecology/l-31/l-31.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ecology/l-31/l-31.mp4",
       },
       {
         id: 12561,
         name: "Lecture- 30 वनसंरक्षण अधिनियम By Dr. Abhishek Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ecology/l-30/30.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ecology/l-30/30.mp4",
       },
       {
         id: 12251,
         name: "Lecture- 29 भारत के वन संसाधन एवं नीतियां By Dr. Abhishek Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ecology/l-29/29.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ecology/l-29/29.mp4",
       },
       {
         id: 12063,
         name: "Lecture-28 भारत की वन संपदा By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/l28/l28.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/l28/l28.mp4",
       },
       {
         id: 11717,
         name: "Lecture-27 भारत में बाघ संरक्षण एवं नीतियाँ By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/l27/l27.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/l27/l27.mp4",
       },
       {
         id: 11385,
         name: "Lecture-26 भारत में बाघ संरक्षण By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/l26/l26.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/l26/l26.mp4",
       },
       {
         id: 11194,
         name: "Lecture-25 राष्ट्रीय वन्यजीव कार्ययोजना और प्रजाति पुनर्स्थापना कार्यक्रम By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/l25/l25.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/l25/l25.mp4",
       },
       {
         id: 11014,
         name: "Lecture-24 भारतीय वन्यजीव संरक्षण अधिनियम, 1972 (Part-02) By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/l24/l24.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/l24/l24.mp4",
       },
       {
         id: 10878,
         name: "Lecture-23 भारतीय वन्यजीव संरक्षण अधिनियम, 1972 By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/l23/l23/l23.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/l23/l23/l23.mp4",
       },
       {
         id: 10819,
         name: "Lecture-22 वन्यजीव संरक्षण क्षेत्र नेटवर्क By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/l22/l22.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/l22/l22.mp4",
       },
       {
         id: 10837,
@@ -3446,13 +3402,13 @@ export const lessons = [
         id: 10705,
         name: "Lecture-21 वन्य जीव संरक्षण By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/l21/l21.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/l21/l21.mp4",
       },
       {
         id: 7586,
         name: "Lecture-19  भारत की जैव विविधता कार्य योजना और एनबीटी By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L19/L19.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L19/L19.mp4",
       },
       {
         id: 8890,
@@ -3572,61 +3528,61 @@ export const lessons = [
         id: 7564,
         name: "Environmental Ecology Orientation Class by Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/orientation/o.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/orientation/o.mp4",
       },
       {
         id: 7565,
         name: "Lecture 01 Environmental Ecology Introduction Class By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-01-ecology-upsc-hin/l-01-ecology.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-01-ecology-upsc-hin/l-01-ecology.mp4",
       },
       {
         id: 7566,
         name: "Lecture 02 पर्यावरण पारिस्थितिकी के मूल सिद्धांत By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L2/L2.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L2/L2.mp4",
       },
       {
         id: 7567,
         name: "Lecture 03 पर्यावरण पारिस्थितिकी के मूल सिद्धांत Part-02 By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L3/L3.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L3/L3.mp4",
       },
       {
         id: 7568,
         name: "Lecture 04 पारिस्थितिक उत्क्रमण By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-04-ecolog-upsc-hin/l-04-ecology-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-04-ecolog-upsc-hin/l-04-ecology-upsc-hin.mp4",
       },
       {
         id: 7569,
         name: "Lecture 05 पारिस्थितिक तंत्र By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L5/L5.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L5/L5.mp4",
       },
       {
         id: 7570,
         name: "Lecture 06 पारिस्थितिक तंत्र Part-02 By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L6/L6.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L6/L6.mp4",
       },
       {
         id: 7572,
         name: "Lecture 07 पारिस्थितिक तंत्र Part-03 by Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L7/L7.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L7/L7.mp4",
       },
       {
         id: 7574,
         name: "Lecture 08 पारिस्थितिक पिरामिड By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L8/L8.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L8/L8.mp4",
       },
       {
         id: 7575,
         name: "Lecture-09 जैव भू-रासायनिक चक्र By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L9/L9.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L9/L9.mp4",
       },
       {
         id: 7577,
@@ -3637,55 +3593,55 @@ export const lessons = [
         id: 7578,
         name: "Lecture-11 जैव भू-रासायनिक चक्र By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-11-ecology-upsc-hin/l-11-ecology-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-11-ecology-upsc-hin/l-11-ecology-upsc-hin.mp4",
       },
       {
         id: 7579,
         name: "Lecture-12 जैव विविधता Part-01 By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-12-ecology/l-12-ecology-upsc.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-12-ecology/l-12-ecology-upsc.mp4",
       },
       {
         id: 7580,
         name: "Lecture-13 जैव विविधता Part-02 By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L13/L13.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L13/L13.mp4",
       },
       {
         id: 7581,
         name: "Lecture-14 पश्चिमी घाट By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L14/L14.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L14/L14.mp4",
       },
       {
         id: 7582,
         name: "Lecture-15  UN- CBD , नागोया प्रोटोकॉल एवं आइची लक्ष्य-1 By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L15/L15.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L15/L15.mp4",
       },
       {
         id: 7583,
         name: "Lecture-16 UN- CBD , नागोया प्रोटोकॉल एवं आइची लक्ष्य-1 ( Part-02) By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L16/L16.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L16/L16.mp4",
       },
       {
         id: 7584,
         name: "Lecture-17 भारत में जैवसुरक्षा By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L17/L17.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L17/L17.mp4",
       },
       {
         id: 7585,
         name: "Lecture-18  भारत के जैविक विविधता अधिनियम By Dr. Abhishek Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L18/L18.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L18/L18.mp4",
       },
       {
         id: 7587,
         name: "Lecture-20 संयुक्त राष्ट्र जैव विविधता सम्मलेन 2022 और रामसर अभिसमय By Dr. Abhishek sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L20/L20.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ecology/L20/L20.mp4",
       },
     ],
   },
@@ -3709,7 +3665,7 @@ export const lessons = [
         id: 37093,
         name: "Lecture-36 Cyber Security (Part 02) VOD by Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-36/l-36-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-36/l-36-sci-tech-upsc-hin.mp4",
       },
       {
         id: 36610,
@@ -3727,13 +3683,13 @@ export const lessons = [
         id: 36442,
         name: "Lecture-35 Grid Computing & Satellite Internet by Dr. Abhishek Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/36466/kgss-1701317960-v36466.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/36466/kgss-1701317960-v36466.mp4",
       },
       {
         id: 36188,
         name: "Lecture-34 Internet Of Things (IoT), Cyber Security by Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-34/l-34-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-34/l-34-sci-tech-upsc-hin.mp4",
       },
       {
         id: 36353,
@@ -3763,7 +3719,7 @@ export const lessons = [
         id: 35983,
         name: "Lecture-33 Cryptocurrency, Blockchain Technology & NFT By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-33/l-33-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-33/l-33-sci-tech-upsc-hin.mp4",
       },
       {
         id: 35960,
@@ -3775,7 +3731,7 @@ export const lessons = [
         id: 35716,
         name: "Lecture- 32 ICT & Computing Part 02 By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-32/l-32-scie-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-32/l-32-scie-tech-upsc-hin.mp4",
       },
       {
         id: 35452,
@@ -3787,7 +3743,7 @@ export const lessons = [
         id: 35356,
         name: "Lecture- 31 ICT & Computing Part 01 By Dr. Abhishek Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/35325/kgss-1700797477-v35325.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/35325/kgss-1700797477-v35325.mp4",
       },
       {
         id: 35345,
@@ -3799,7 +3755,7 @@ export const lessons = [
         id: 34907,
         name: "Lecture- 30 Artificial Intelligence part 02 By Dr. Abhishek Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/35048/kgss-1700712073-v35048.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/35048/kgss-1700712073-v35048.mp4",
       },
       {
         id: 34818,
@@ -3811,7 +3767,7 @@ export const lessons = [
         id: 34412,
         name: "Lecture- 29 Artificial Intelligence part 01 By Dr. Abhishek Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34412/kgss-1700538561-v34412.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34412/kgss-1700538561-v34412.mp4",
       },
       {
         id: 34270,
@@ -3829,7 +3785,7 @@ export const lessons = [
         id: 34275,
         name: "Lecture- 28 Information & Communication By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-28/l-28-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-28/l-28-sci-tech-upsc-hin.mp4",
       },
       {
         id: 34250,
@@ -3895,7 +3851,7 @@ export const lessons = [
         id: 34082,
         name: "Lecture- 27 IPR (Part-03) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-27/l-27-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-27/l-27-sci-tech-upsc-hin.mp4",
       },
       {
         id: 34068,
@@ -3907,7 +3863,7 @@ export const lessons = [
         id: 33936,
         name: "Lecture- 26 IPR (Part-02) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-26/l-26-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-26/l-26-sci-tech-upsc-hin.mp4",
       },
       {
         id: 33907,
@@ -3925,13 +3881,13 @@ export const lessons = [
         id: 33827,
         name: "Lecture- 25 IPR (Part-01) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-25/l-25-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-25/l-25-sci-tech-upsc-hin.mp4",
       },
       {
         id: 33722,
         name: "Lecture- 24 Biotechnology (Part 06) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-24/l-24-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-24/l-24-sci-tech-upsc-hin.mp4",
       },
       {
         id: 33736,
@@ -3943,7 +3899,7 @@ export const lessons = [
         id: 33511,
         name: "Lecture- 23 Biotechnology (Part 05) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-23/l-23-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-23/l-23-sci-tech-upsc-hin.mp4",
       },
       {
         id: 33389,
@@ -3955,7 +3911,7 @@ export const lessons = [
         id: 33158,
         name: "Lecture- 22 Biotechnology (Part 04) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-22/l-22-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-22/l-22-sci-tech-upsc-hin.mp4",
       },
       {
         id: 33163,
@@ -3967,7 +3923,7 @@ export const lessons = [
         id: 32906,
         name: "Lecture- 21 Biotechnology (Part 03) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-21/l-21-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-21/l-21-sci-tech-upsc-hin.mp4",
       },
       {
         id: 32807,
@@ -3985,7 +3941,7 @@ export const lessons = [
         id: 32582,
         name: "Lecture- 20 Biotechnology (Part 02) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-20/l-20-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-20/l-20-sci-tech-upsc-hin.mp4",
       },
       {
         id: 32283,
@@ -4015,7 +3971,7 @@ export const lessons = [
         id: 32210,
         name: "Lecture- 19 Biotechnology (Part 01) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-19/l-19-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-19/l-19-sci-tech-upsc-hin.mp4",
       },
       {
         id: 31995,
@@ -4027,13 +3983,13 @@ export const lessons = [
         id: 31877,
         name: "Lecture- 18 Robotics & Robots By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-18/l-18-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-18/l-18-sci-tech-upsc-hin.mp4",
       },
       {
         id: 31637,
         name: "Lecture- 17 Nano Technology  By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-17/l-17-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-17/l-17-sci-tech-upsc-hin.mp4",
       },
       {
         id: 31670,
@@ -4045,7 +4001,7 @@ export const lessons = [
         id: 30633,
         name: "Lecture- 16 Defence Technology (Part 03 )By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-16/l-16-sci-tech-upsc-hindi.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sci-tech/l-16/l-16-sci-tech-upsc-hindi.mp4",
       },
       {
         id: 31505,
@@ -4063,7 +4019,7 @@ export const lessons = [
         id: 30117,
         name: "Lecture- 15 Lecture- 15 Defence Technology (Part 02) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-15/l-15-sci-tech-upsc-hind.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-15/l-15-sci-tech-upsc-hind.mp4",
       },
       {
         id: 30138,
@@ -4081,7 +4037,7 @@ export const lessons = [
         id: 29862,
         name: "Lecture- 14 Defence Technology (Part 01)By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-14/l-14-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-14/l-14-sci-tech-upsc-hin.mp4",
       },
       {
         id: 29876,
@@ -4105,7 +4061,7 @@ export const lessons = [
         id: 29620,
         name: "Lecture- 13 Energy ( Part-03)  By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-13/l-13-sci-tect-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-13/l-13-sci-tect-upsc-hin.mp4",
       },
       {
         id: 29354,
@@ -4117,7 +4073,7 @@ export const lessons = [
         id: 28631,
         name: "Lecture- 12  Energy ( Part-02)  By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-12/l-12-sci-tect-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-12/l-12-sci-tect-upsc-hin.mp4",
       },
       {
         id: 28571,
@@ -4135,7 +4091,7 @@ export const lessons = [
         id: 28389,
         name: "Lecture- 11 Energy ( Part-01) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-11/l-11-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-11/l-11-sci-tech-upsc-hin.mp4",
       },
       {
         id: 28201,
@@ -4165,7 +4121,7 @@ export const lessons = [
         id: 27826,
         name: "Lecture- 10 Space Technology (Part 08) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-10/l-10-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-10/l-10-sci-tech-upsc-hin.mp4",
       },
       {
         id: 27830,
@@ -4183,13 +4139,13 @@ export const lessons = [
         id: 27750,
         name: "Lecture- 09 Space Technology (Part 07) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-09/l-09-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-09/l-09-sci-tech-upsc-hin.mp4",
       },
       {
         id: 27511,
         name: "Lecture- 08 Space Technology (Part 06) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-08/l-08-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-08/l-08-sci-tech-upsc-hin.mp4",
       },
       {
         id: 27227,
@@ -4201,7 +4157,7 @@ export const lessons = [
         id: 26989,
         name: "Lecture- 07 Space Technology (Part 05) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-07/l-07-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-07/l-07-sci-tech-upsc-hin.mp4",
       },
       {
         id: 26992,
@@ -4219,13 +4175,13 @@ export const lessons = [
         id: 26774,
         name: "Lecture- 6 Space Technology (Part 04) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-06/l-06-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-06/l-06-sci-tech-upsc-hin.mp4",
       },
       {
         id: 26538,
         name: "Lecture- 5 Space Technology (Part 03) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-05/l-05-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-05/l-05-sci-tech-upsc-hin.mp4",
       },
       {
         id: 26508,
@@ -4237,7 +4193,7 @@ export const lessons = [
         id: 26233,
         name: "Lecture- 4 Space Technology (Part 02) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-04/l-04-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-04/l-04-sci-tech-upsc-hin.mp4",
       },
       {
         id: 26275,
@@ -4261,7 +4217,7 @@ export const lessons = [
         id: 25860,
         name: "Lecture- 3 Space Technology (Part 01) By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-03/l-03-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-03/l-03-sci-tech-upsc-hin.mp4",
       },
       {
         id: 25954,
@@ -4279,13 +4235,13 @@ export const lessons = [
         id: 25703,
         name: "Lecture- 2 Preparation Orientation Class By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-02/l-02-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-02/l-02-sci-tech-upsc-hin.mp4",
       },
       {
         id: 25458,
         name: "Lecture 1: Introduction Class By Dr. Abhishek Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-01/l-01-sci-tech-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/science-tech/l-01/l-01-sci-tech-upsc-hin.mp4",
       },
       {
         id: 35279,
@@ -4315,7 +4271,7 @@ export const lessons = [
         id: 30115,
         name: "Lecture- 64 Food Security By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-64/l-64-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-64/l-64-economy-upsc-hin.mp4",
       },
       {
         id: 30035,
@@ -4327,7 +4283,7 @@ export const lessons = [
         id: 29860,
         name: "Lecture- 63   Inclusive Growth By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-63/l-63-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-63/l-63-economy-upsc-hin.mp4",
       },
       {
         id: 29781,
@@ -4339,7 +4295,7 @@ export const lessons = [
         id: 29617,
         name: "Lecture- 62   Planning  By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-62/l-62-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-62/l-62-economy-upsc-hin.mp4",
       },
       {
         id: 29356,
@@ -4362,7 +4318,7 @@ export const lessons = [
         id: 28168,
         name: "Lecture- 60 Economic Liberalization (Part 01)  By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-60/l-60-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-60/l-60-economy-upsc-hin.mp4",
       },
       {
         id: 27833,
@@ -4380,13 +4336,13 @@ export const lessons = [
         id: 27751,
         name: "Lecture- 59 Industrial Policy By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-59/l-59-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-59/l-59-economy-upsc-hin.mp4",
       },
       {
         id: 27508,
         name: "Lecture- 58 PPP Hybrid Annuity Model (HAM) By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-58/l-58-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-58/l-58-economy-upsc-hin.mp4",
       },
       {
         id: 26911,
@@ -4398,7 +4354,7 @@ export const lessons = [
         id: 26778,
         name: "Lecture- 57 Infrastructure By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-57/l-57-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-57/l-57-economy-upsc-hin.mp4",
       },
       {
         id: 26675,
@@ -4410,7 +4366,7 @@ export const lessons = [
         id: 26536,
         name: "Lecture- 56 Government Budgeting By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-56/l-56-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-56/l-56-economy-upsc-hin.mp4",
       },
       {
         id: 26416,
@@ -4422,7 +4378,7 @@ export const lessons = [
         id: 26235,
         name: "Lecture- 55 Investment Model: Harrod–Domar model By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-55/l-55-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-55/l-55-economy-upsc-hin.mp4",
       },
       {
         id: 26294,
@@ -4434,7 +4390,7 @@ export const lessons = [
         id: 25856,
         name: "Lecture- 54 Supply Chain Management By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-54/l-54-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-54/l-54-economy-upsc-hin.mp4",
       },
       {
         id: 25793,
@@ -4458,13 +4414,13 @@ export const lessons = [
         id: 25699,
         name: "Lecture- 53 Food Processing Industry By Rameshwar sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-53/l-53-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-53/l-53-economy-upsc-hin.mp4",
       },
       {
         id: 25460,
         name: "Lecture 52 : Animal Rearing By Rameshwar sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-52/l-52-economics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-52/l-52-economics-upsc-hin.mp4",
       },
       {
         id: 25350,
@@ -4482,19 +4438,19 @@ export const lessons = [
         id: 25241,
         name: "Lecture- 51  Public Distribution System (PDS) By Rameshwar sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-51/l-51-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-51/l-51-economy-upsc-hin.mp4",
       },
       {
         id: 24990,
         name: "Lecture- 50 Agriculture Market & State APMC Act By Rameshwar sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-50/l-50-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-50/l-50-economy-upsc-hin.mp4",
       },
       {
         id: 24629,
         name: "Lecture- 49 Agriculture Subsidies, WTO & India By Rameshwar sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-49/l-49-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-49/l-49-economy-upsc-hin.mp4",
       },
       {
         id: 24627,
@@ -4506,7 +4462,7 @@ export const lessons = [
         id: 24467,
         name: "Lecture- 48 Minimum Support Price (MSP) By Rameshwar sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-48/l-48-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-48/l-48-economy-upsc-hin.mp4",
       },
       {
         id: 24439,
@@ -4524,7 +4480,7 @@ export const lessons = [
         id: 24228,
         name: "Lecture- 47 Agriculture Subsidies By Rameshwar sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-47/l-47-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-47/l-47-economy-upsc-hin.mp4",
       },
       {
         id: 24175,
@@ -4536,13 +4492,13 @@ export const lessons = [
         id: 24014,
         name: "Lecture- 46 Land Reform (Part 03 ) By Rameshwar sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-46/l-46-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-46/l-46-economy-upsc-hin.mp4",
       },
       {
         id: 23874,
         name: "Lecture- 45 Land Reform (Part 02) By Rameshwar sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-45/l-45-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-45/l-45-economy-upsc-hin.mp4",
       },
       {
         id: 23787,
@@ -4608,13 +4564,13 @@ export const lessons = [
         id: 23447,
         name: "Lecture- 44 Land Reform (Part 01) By Rameshwar sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-44/l-44-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-44/l-44-economy-upsc-hin.mp4",
       },
       {
         id: 23291,
         name: "Lecture- 43 Informalization Of Labour Market By Rameshwar sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-43/l-43-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-43/l-43-economy-upsc-hin.mp4",
       },
       {
         id: 22899,
@@ -4625,43 +4581,43 @@ export const lessons = [
         id: 22794,
         name: "Lecture- 41 Unemployment By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-41/l-41-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-41/l-41-economy-upsc-hin.mp4",
       },
       {
         id: 22461,
         name: "Lecture- 40 Lorenz Curve & Gini Coefficient By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-40/l-40-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-40/l-40-economy-upsc-hin.mp4",
       },
       {
         id: 22254,
         name: "Lecture- 39 Measurement Of Poverty In India By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-39/l-39-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-39/l-39-economy-upsc-hin.mp4",
       },
       {
         id: 21981,
         name: "Lecture- 38  Poverty By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-38/l-38-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-38/l-38-economy-upsc-hin.mp4",
       },
       {
         id: 21611,
         name: "Lecture-37 Social Sector- Introduction By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-37/l-37-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-37/l-37-economy-upsc-hin.mp4",
       },
       {
         id: 20875,
         name: "Lecture-36 Inflation - Types, Policy, Target By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-36/l-36-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-36/l-36-economy-upsc-hin.mp4",
       },
       {
         id: 20693,
         name: "Lecture-35 Inflation and Related Term By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-35/l-35-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-35/l-35-economy-upsc-hin.mp4",
       },
       {
         id: 20601,
@@ -4679,13 +4635,13 @@ export const lessons = [
         id: 20473,
         name: "Lecture-34 De-Dollarization & International Institution By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-34/l-34-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-34/l-34-economy-upsc-hin.mp4",
       },
       {
         id: 20315,
         name: "Lecture-33 Forms of Economic Cooperation (Trade Agreements) By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-33/l-33-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-33/l-33-economy-upsc-hin.mp4",
       },
       {
         id: 20348,
@@ -4709,25 +4665,25 @@ export const lessons = [
         id: 20123,
         name: "Lecture-32 NEER, REER & FDI By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-32/l-32-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-32/l-32-economy-upsc-hin.mp4",
       },
       {
         id: 19934,
         name: "Lecture-31 Floating Exchange Rate By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-31/l-31-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-31/l-31-economy-upsc-hin.mp4",
       },
       {
         id: 19647,
         name: "Lecture-30 Exchange Rate By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-30/l-30-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-30/l-30-economy-upsc-hin.mp4",
       },
       {
         id: 19341,
         name: "Lecture-29 Foreign Sector- Balance of Payment By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-29/l-29-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-29/l-29-economy-upsc-hin.mp4",
       },
       {
         id: 19536,
@@ -4751,13 +4707,13 @@ export const lessons = [
         id: 19314,
         name: "Lecture-28 Bond & Debentures By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-28/l-28-economics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-28/l-28-economics-upsc-hin.mp4",
       },
       {
         id: 19073,
         name: "Lecture-27 Interest Rate Arbitrage By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-27/l27.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-27/l27.mp4",
       },
       {
         id: 19193,
@@ -4805,49 +4761,49 @@ export const lessons = [
         id: 18924,
         name: "Lecture-26 Equity & Related Term By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-26/l-26-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-26/l-26-economy-upsc-hin.mp4",
       },
       {
         id: 18599,
         name: "Lecture-25 Financial Market Instrument By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-25/l-25-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-25/l-25-economy-upsc-hin.mp4",
       },
       {
         id: 18466,
         name: "Lecture-24 Financial Market: Introduction By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-24/l-24-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-24/l-24-economy-upsc-hin.mp4",
       },
       {
         id: 18292,
         name: "Lecture-23 NBFC, Bank & Related Issues By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-23/l-22-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-23/l-22-economy-upsc-hin.mp4",
       },
       {
         id: 18083,
         name: "Lecture-22 Microfinance By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-22/l-22-economy-upsc-his.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-22/l-22-economy-upsc-his.mp4",
       },
       {
         id: 17871,
         name: "Lecture-21 Rates and Ratios (Part-04) By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-21/l-21-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-21/l-21-economy-upsc-hin.mp4",
       },
       {
         id: 17590,
         name: "Lecture-20 Rates and Ratios (Part 03) By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-20/l-20-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-20/l-20-economy-upsc-hin.mp4",
       },
       {
         id: 17372,
         name: "Lecture-19 Rates and Ratios (Part 02) By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-19/l-19-ecology-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-19/l-19-ecology-upsc-hin.mp4",
       },
       {
         id: 17432,
@@ -4901,43 +4857,43 @@ export const lessons = [
         id: 17204,
         name: "Lecture-18 Rates and Ratios (Part-01) By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-18/l-18-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-18/l-18-economy-upsc-hin.mp4",
       },
       {
         id: 16825,
         name: "Lecture-17 Money Banking Introduction By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-17/l-17-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-17/l-17-economy-upsc-hin.mp4",
       },
       {
         id: 16643,
         name: "Lecture-16 Some Important Concepts By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-16/l-16-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-16/l-16-economy-upsc-hin.mp4",
       },
       {
         id: 16504,
         name: "Lecture-15 GST & Tax Evasion By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-15/l-15-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-15/l-15-economy-upsc-hin.mp4",
       },
       {
         id: 16332,
         name: "Lecture-14 Finance Commission & GST By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-14/l-14-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-14/l-14-economy-upsc-hin.mp4",
       },
       {
         id: 16237,
         name: "Lecture-13 Budget Overview By Rameshwar sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-13/l-13-economy-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-13/l-13-economy-upsc-hin.mp4",
       },
       {
         id: 16037,
         name: "Lecture-12 Expenditure & Deficit By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-12/12.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-12/12.mp4",
       },
       {
         id: 16067,
@@ -4985,55 +4941,55 @@ export const lessons = [
         id: 15858,
         name: "Lecture-11 NDCR & Capital Receipt By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-11/l-11-economy-upsc-hin1.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-11/l-11-economy-upsc-hin1.mp4",
       },
       {
         id: 15660,
         name: "Lecture-10 Revenue Receipt:  Tax/Non Tax Receipt & Laffer Curve By Rameshwar SIr",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/old-backups/l-10-economy-upsc-hin/l10.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/old-backups/l-10-economy-upsc-hin/l10.mp4",
       },
       {
         id: 15473,
         name: "Lecture-09 Public Finance- Introduction By Rameshwar SIr",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/economics/l9/l9.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/economics/l9/l9.mp4",
       },
       {
         id: 15140,
         name: "Lecture-08 Some Important Facts By Rameshwar SIr",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/economics/l-8/8.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/economics/l-8/8.mp4",
       },
       {
         id: 14782,
         name: "Lecture-07 Some Basic Concepts of Economy By Rameshwar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/economics/l7/l7.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/economics/l7/l7.mp4",
       },
       {
         id: 14447,
         name: "Lecture-06 Sustainable Development By Rameshwar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/economics/l6/l6.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/economics/l6/l6.mp4",
       },
       {
         id: 14455,
         name: "Lecture-05 Stimulus in Economy and GFCF By Rameshwar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-5/l-5.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/economy/l-5/l-5.mp4",
       },
       {
         id: 14269,
         name: "Lecture-04 Keynesian Theory and Important Economic Problems By Rameshwar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/economics/l4/4.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/economics/l4/4.mp4",
       },
       {
         id: 14135,
         name: "Lecture-03 Keynesian Economy By Rameshwar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/13th-july/l-03-economics/l-03-economics.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/13th-july/l-03-economics/l-03-economics.mp4",
       },
       {
         id: 13780,
@@ -5060,19 +5016,19 @@ export const lessons = [
         id: 21842,
         name: "Lecture-55 केस स्टडी (Part-09) By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-55/l-55-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-55/l-55-ethics-upsc-hin.mp4",
       },
       {
         id: 21323,
         name: "Lecture-54 केस स्टडी (Part-08) By Dharmendra Kumar Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/l54dharmendrasir/l54dharmendrasir.m3u8",
+          "https://1805429809.rsc.cdn77.org/l54dharmendrasir/l54dharmendrasir.mp4",
       },
       {
         id: 21188,
         name: "Lecture-53 केस स्टडी (Part-07) By Dharmendra Kumar Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/l53dharmendrasir/l53dharmendrasir.m3u8",
+          "https://1805429809.rsc.cdn77.org/l53dharmendrasir/l53dharmendrasir.mp4",
       },
       {
         id: 21277,
@@ -5084,13 +5040,13 @@ export const lessons = [
         id: 20684,
         name: "Lecture-52 केस स्टडी (Part-06) By Dharmendra Kumar Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/l52dharmendrasir/l52dharmendrasir.m3u8",
+          "https://1805429809.rsc.cdn77.org/l52dharmendrasir/l52dharmendrasir.mp4",
       },
       {
         id: 20593,
         name: "Lecture-51 केस स्टडी (Part-05) By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-51/l-51-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-51/l-51-ethics-upsc-hin.mp4",
       },
       {
         id: 20595,
@@ -5108,7 +5064,7 @@ export const lessons = [
         id: 20472,
         name: "Lecture-50 केस स्टडी (Part-01) By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-50/l-50-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-50/l-50-ethics-upsc-hin.mp4",
       },
       {
         id: 20519,
@@ -5138,13 +5094,13 @@ export const lessons = [
         id: 20313,
         name: "Lecture-49 केस स्टडी (Part-03) By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-49/l-49-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-49/l-49-ethics-upsc-hin.mp4",
       },
       {
         id: 20122,
         name: "Lecture-48 केस स्टडी (Part-02) By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-48/l-48-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-48/l-48-ethics-upsc-hin.mp4",
       },
       {
         id: 20151,
@@ -5162,13 +5118,13 @@ export const lessons = [
         id: 19899,
         name: "Lecture-47 केस स्टडी (Part-01) By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-47/l-47-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-47/l-47-ethics-upsc-hin.mp4",
       },
       {
         id: 19789,
         name: "Lecture-46 लोक निधि का उपयोग और भ्रष्टाचार की चुनौतियाँ By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-46/l-46-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-46/l-46-ethics-upsc-hin.mp4",
       },
       {
         id: 19885,
@@ -5192,13 +5148,13 @@ export const lessons = [
         id: 19645,
         name: "Lecture-45 कार्य संस्कृति और सेवा प्रदान करने की गुणवत्ता By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-45/l-45-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-45/l-45-ethics-upsc-hin.mp4",
       },
       {
         id: 19340,
         name: "Lecture-44 नीतिपरक आचार संहिता और आचरण संहिता By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-44/l-44-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-44/l-44-ethics-upsc-hin.mp4",
       },
       {
         id: 19524,
@@ -5228,46 +5184,46 @@ export const lessons = [
         id: 19313,
         name: "Lecture-43 सूचना का अधिकार और पारदर्शिता By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-43/l-43-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-43/l-43-ethics-upsc-hin.mp4",
       },
       {
         id: 18925,
         name: "Lecture-42 शासन व्यवस्था में ईमानदारी तथा लोक सेवा की अवधारणा By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/old-backups/l-42-ethics-upsc-hin/l-42-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/old-backups/l-42-ethics-upsc-hin/l-42-ethics-upsc-hin.mp4",
       },
       {
         id: 18742,
         name: "Lecture-41 अंतर्राष्ट्रीय संबंधों तथा निधि व्यवस्था (फंडिंग) में नैतिक मुद्दे By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-41/l-41-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-41/l-41-ethics-upsc-hin.mp4",
       },
       {
         id: 18597,
         name: "Lecture-40 शासन व्यवस्था में नीतिपरक तथा नैतिक मूल्यों का सुदृढ़ीकरण By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-40/l-40-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-40/l-40-ethics-upsc-hin.mp4",
       },
       {
         id: 18290,
         name: "Lecture-39 उत्तरदायित्व तथा नैतिक शासन By Dharmendra Kumar Sir",
-        video_url: "https://1805429809.rsc.cdn77.org/L39Ethics/L39Ethics.m3u8",
+        video_url: "https://1805429809.rsc.cdn77.org/L39Ethics/L39Ethics.mp4",
       },
       {
         id: 18080,
         name: "Lecture-38 नैतिक मार्गदर्शन के स्त्रोतों के रूप में विधि, नियम, विनिमय तथा अंतरात्मा By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-38/l-38-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-38/l-38-ethics-upsc-hin.mp4",
       },
       {
         id: 18059,
         name: "Lecture-37 सरकारी तथा निजी संस्थानों में नैतिक चिंताएं तथा दुविधाएँ By Dharmendra Kumar Sir",
-        video_url: "https://1805429809.rsc.cdn77.org/l37ethics/l37ethics.m3u8",
+        video_url: "https://1805429809.rsc.cdn77.org/l37ethics/l37ethics.mp4",
       },
       {
         id: 17864,
         name: "Lecture-36 लोक प्रशासन- स्थिति एवं समस्याएं By Dharmendra Kumar Sir",
-        video_url: "https://1805429809.rsc.cdn77.org/l36ethics/l36ethics.m3u8",
+        video_url: "https://1805429809.rsc.cdn77.org/l36ethics/l36ethics.mp4",
       },
       {
         id: 17886,
@@ -5284,30 +5240,30 @@ export const lessons = [
       {
         id: 17682,
         name: "Lecture-35 लोक प्रशासनों में सिविल सेवा मूल्य तथा नीतिशास्त्र By Dharmendra Kumar Sir",
-        video_url: "https://1805429809.rsc.cdn77.org/l35ethics/l35ethics.m3u8",
+        video_url: "https://1805429809.rsc.cdn77.org/l35ethics/l35ethics.mp4",
       },
       {
         id: 17587,
         name: "Lecture-34 दार्शनिक एवं विचारक- अमर्त्यसेन By Dharmendra Kumar Sir",
-        video_url: "https://1805429809.rsc.cdn77.org/l34ethics/l34ethics.m3u8",
+        video_url: "https://1805429809.rsc.cdn77.org/l34ethics/l34ethics.mp4",
       },
       {
         id: 17083,
         name: "Lecture-33 कुछ और दार्शनिक तथा विचारक By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-33/l-33-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-33/l-33-ethics-upsc-hin.mp4",
       },
       {
         id: 17082,
         name: "Lecture-32 ग्रीक/ यूनानी दार्शनिक और विचारक (बेंथम, मील, हीगल और कांट) By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-32/l-32-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-32/l-32-ethics-upsc-hin.mp4",
       },
       {
         id: 17028,
         name: "Lecture-31 ग्रीक/ यूनानी नीतिशास्त्र (सुकरात, प्लेटो और अरस्तु) By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-31/l-31-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-31/l-31-ethics-upsc-hin.mp4",
       },
       {
         id: 17096,
@@ -5319,43 +5275,43 @@ export const lessons = [
         id: 16820,
         name: "Lecture-30 शंकराचार्य दर्शन और नव्य वेदांत By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-30/l-30-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-30/l-30-ethics-upsc-hin.mp4",
       },
       {
         id: 16641,
         name: "Lecture-29 बौद्ध, जैन और शैव दर्शन By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-29/l-29-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-29/l-29-ethics-upsc-hin.mp4",
       },
       {
         id: 16329,
         name: "Lecture-28 महान सुधारक, दार्शनिक और नेता- गाँधी (Part-02)\n By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-28/l-28-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-28/l-28-ethics-upsc-hin.mp4",
       },
       {
         id: 16238,
         name: "Lecture-27 महान सुधारक, दार्शनिक और नेता- गाँधी (Part-01)\n By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-27/l-27-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-27/l-27-ethics-upsc-hin.mp4",
       },
       {
         id: 16033,
         name: "Lecture-26 महान सुधारक, दार्शनिक और नेता (Part-03) By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-26/26.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-26/26.mp4",
       },
       {
         id: 15855,
         name: "Lecture-25 महान सुधारक, दार्शनिक और नेता (Part-02) By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-25/l-25-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-25/l-25-ethics-upsc-hin.mp4",
       },
       {
         id: 15658,
         name: "Lecture-24 महान सुधारक, दार्शनिक और नेता By Dharmendra Kumar Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-24/l-24-ethics-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/ethics/l-24/l-24-ethics-upsc-hin.mp4",
       },
       {
         id: 15770,
@@ -5373,13 +5329,13 @@ export const lessons = [
         id: 15471,
         name: "Lecture-23 प्रशासन व्यवस्था में संवेगात्मक बुद्धि के अनुप्रयोग By Dharmendra Kumar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l23/l23.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l23/l23.mp4",
       },
       {
         id: 14783,
         name: "Lecture-22 संवेगात्मक बुद्धि  By Dharmendra Kumar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l22/l22.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l22/l22.mp4",
       },
       {
         id: 15178,
@@ -5391,7 +5347,7 @@ export const lessons = [
         id: 15003,
         name: "Lecture-21 सार्वजनिक सेवा के प्रति समर्पण भाव, समानुभूति, सहिष्णुता तथा करुणा (Part-02) By Dharmendra Kumar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l21/l21.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l21/l21.mp4",
       },
       {
         id: 15067,
@@ -5409,19 +5365,19 @@ export const lessons = [
         id: 14784,
         name: "Lecture-20 सार्वजनिक सेवा के प्रति समर्पण भाव, समानुभूति, सहिष्णुता तथा करुणा By Dharmendra Kumar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l20/l20.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l20/l20.mp4",
       },
       {
         id: 14611,
         name: "Lecture-19 सिविल सेवा के लिए अभिरुचि- गैर तरफदारी तथा निष्पक्षता By Dharmendra Kumar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l-19-ethics-upsc-hin/l-19-ethics-upsc-hin.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l-19-ethics-upsc-hin/l-19-ethics-upsc-hin.mp4",
       },
       {
         id: 14457,
         name: "Lecture-18 सिविल सेवा के लिए अभिरुचि- सत्यनिष्ठा By Dharmendra Kumar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/17th-july/l-18-ethics-upsc-hin/l-18-ethics-upsc-hin.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/17th-july/l-18-ethics-upsc-hin/l-18-ethics-upsc-hin.mp4",
       },
       {
         id: 14498,
@@ -5445,7 +5401,7 @@ export const lessons = [
         id: 14128,
         name: "Lecture-17 सिविल सेवा के लिए अभिरुचि (Part-01) By Dharmendra Kumar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/13th-july/l-17-ethics/l-17-ethics.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/13th-july/l-17-ethics/l-17-ethics.mp4",
       },
       {
         id: 14123,
@@ -5457,7 +5413,7 @@ export const lessons = [
         id: 13992,
         name: "Lecture 16 अभिवृत्ति: सामाजिक प्रभाव और धारणा By Dharmendra Kumar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/12th-july/l-16ethics/l-16ethics.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/12th-july/l-16ethics/l-16ethics.mp4",
       },
       {
         id: 13907,
@@ -5499,43 +5455,43 @@ export const lessons = [
         id: 13646,
         name: "Lecture 15 अभिवृत्ति Part-03 by Dharmendra  Kumar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l-15ethics/l-15ethics.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l-15ethics/l-15ethics.mp4",
       },
       {
         id: 13781,
         name: "Lecture 14 अभिवृत्ति Part-02 By Dharmendra Kumar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/14ethics/14e.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/14ethics/14e.mp4",
       },
       {
         id: 12283,
         name: "Lecture 13 अभिवृत्ति Part-01 by Dharmendra  Kumar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l13ethics/13.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l13ethics/13.mp4",
       },
       {
         id: 12559,
         name: "Lecture 12 मूल्यों के विकास में परिवार, समाज एवं शैक्षणिक संस्थानों की भूमिका Part-02 Dharmendra kumar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l-12/12.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l-12/12.mp4",
       },
       {
         id: 12282,
         name: "Lecture 11 मूल्यों के विकास में परिवार, समाज एवं शैक्षणिक संस्थानों की भूमिका Part-01 Dharmendra kumar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l-11/11.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l-11/11.mp4",
       },
       {
         id: 12250,
         name: "Lecture 10 निजी एवं सार्वजानिक संबंधों में नीतिशास्त्र Part-02 Dharmendra kumar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l-10/l10.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l-10/l10.mp4",
       },
       {
         id: 12192,
         name: "Lecture 09 निजी एवं सार्वजानिक संबंधों में नीतिशास्त्र Part-01 Dharmendra kumar Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l-9/l9.m3u8",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ethics/l-9/l9.mp4",
       },
       {
         id: 12184,
@@ -5571,7 +5527,7 @@ export const lessons = [
         id: 12062,
         name: "Lecture 08- नीतिशास्त्र के आयाम Dharmendra kumar Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ethics/l8/l8.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ethics/l8/l8.mp4",
       },
       {
         id: 12015,
@@ -5601,31 +5557,31 @@ export const lessons = [
         id: 11713,
         name: "Lecture 07- नीतिशास्त्र के निर्धारक और परिणाम Part-2 Dharmendra kumar Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ethics/l7/l7.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ethics/l7/l7.mp4",
       },
       {
         id: 11512,
         name: "Lecture 06- नीतिशास्त्र के निर्धारक और परिणाम By Dharmendra kumar Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ethics/l6/l6.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ethics/l6/l6.mp4",
       },
       {
         id: 11376,
         name: "Lecture-05 नीतिशास्त्र का सारतत्व (Part-02) By Dharmendra kumar Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ethics/5/5.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ethics/5/5.mp4",
       },
       {
         id: 11191,
         name: "Lecture-04 नीतिशास्त्र का सारतत्व (Part-01) By Dharmendra kumar Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ethics/4/4.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ethics/4/4.mp4",
       },
       {
         id: 11011,
         name: "Lecture-03  नीतिशास्त्र की बुनियादी अवधारणा Part-02 By Dharmendra kumar Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ethics/l3/l3.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ethics/l3/l3.mp4",
       },
       {
         id: 10955,
@@ -5637,7 +5593,7 @@ export const lessons = [
         id: 10877,
         name: "Lecture-02  नैतिकशास्त्र की मूलभूत अवधारणा Part-01 By Dharmendra kumar Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ethics/l2/l2.m3u8",
+          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/ethics/l2/l2.mp4",
       },
       {
         id: 10836,
@@ -5702,13 +5658,13 @@ export const lessons = [
         id: 32213,
         name: "Lecture- 41 जनसंख्या Population (Part-04) By Dr. S S Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sociology/l-41/l-41-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sociology/l-41/l-41-socio-upsc-hin.mp4",
       },
       {
         id: 31878,
         name: "Lecture- 40 जनसंख्या Population (Part-03) By Dr. S S Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sociology/l-40/l-40-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sociology/l-40/l-40-socio-upsc-hin.mp4",
       },
       {
         id: 32053,
@@ -5732,7 +5688,7 @@ export const lessons = [
         id: 31639,
         name: "Lecture- 39 जनसंख्या Population (Part-02)By Dr. S S Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sociology/l-39/l-39-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sociology/l-39/l-39-socio-upsc-hin.mp4",
       },
       {
         id: 31836,
@@ -5750,7 +5706,7 @@ export const lessons = [
         id: 31219,
         name: "Lecture- 38 जनसंख्या Population (Part-01) By Dr. S S Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sociology/l-38/l-38-socio-upsc-hind.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/sociology/l-38/l-38-socio-upsc-hind.mp4",
       },
       {
         id: 31572,
@@ -5774,25 +5730,25 @@ export const lessons = [
         id: 30634,
         name: "Lecture- 37शहरीकरण Urbanization (Part 05) By Dr. S S Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-37/l-37-socio-upsc-hind.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-37/l-37-socio-upsc-hind.mp4",
       },
       {
         id: 30484,
         name: "Lecture- 36 शहरीकरण Urbanization (Part 04)  By Dr. S S Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-36/l-36-socio-upsc-hind.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-36/l-36-socio-upsc-hind.mp4",
       },
       {
         id: 30119,
         name: "Lecture- 35  शहरीकरण Urbanization (Part 03) By Dr. S S Pandey Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/oct-2023/30119/kgss-1698388537-v30119.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/oct-2023/30119/kgss-1698388537-v30119.mp4",
       },
       {
         id: 29863,
         name: "Lecture- 34 शहरीकरण Urbanization (Part 02)By Dr. S S Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-34/l-34-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-34/l-34-socio-upsc-hin.mp4",
       },
       {
         id: 30080,
@@ -5804,7 +5760,7 @@ export const lessons = [
         id: 29623,
         name: "Lecture- 33 शहरीकरण Urbanization (Part 01) By Dr. S S Pandey Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/oct-2023/29623/kgss-1698216529-v29623.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/oct-2023/29623/kgss-1698216529-v29623.mp4",
       },
       {
         id: 29885,
@@ -5816,25 +5772,25 @@ export const lessons = [
         id: 29463,
         name: "Lecture- 32 भारत में किसान आत्महत्या Farmer suicide in India By Dr. S S Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-32/l-32-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-32/l-32-socio-upsc-hin.mp4",
       },
       {
         id: 28632,
         name: "Lecture- 31 विकासजनित  विस्थापन   \n Development Induced Displacement By Dr. S S Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-31/l-31-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-31/l-31-socio-upsc-hin.mp4",
       },
       {
         id: 28390,
         name: "Lecture- 30 गरीबी , विकास और विस्थापन Poverty , Development and Displacement\n By Dr. S S Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-30/l-30-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-30/l-30-socio-upsc-hin.mp4",
       },
       {
         id: 28170,
         name: "Lecture- 29 भारत में क्षेत्रवाद की समस्या Problems Of Regionalism In India By Dr. S S Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-29/l-29-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-29/l-29-socio-upsc-hin.mp4",
       },
       {
         id: 28379,
@@ -5852,7 +5808,7 @@ export const lessons = [
         id: 27749,
         name: "Lecture- 28 भारत में क्षेत्रवाद Regionalism In India By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-28/l-28-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-28/l-28-socio-upsc-hin.mp4",
       },
       {
         id: 27822,
@@ -5870,49 +5826,49 @@ export const lessons = [
         id: 27503,
         name: "Lecture- 27 वैश्वीकरण: भारतीय संस्कृति और विविधता Globalization: Indian Culture and Diversity  By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-27/l-27-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-27/l-27-socio-upsc-hin.mp4",
       },
       {
         id: 27246,
         name: "Lecture- 26 भारत में विविधता में एकता Unity In Diversity In India By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-26/l-26-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-26/l-26-socio-upsc-hin.mp4",
       },
       {
         id: 26987,
         name: "Lecture- 25 सयुंक्त परिवार में आधुनिक परिवर्तन  Modern Change In Joint Family (Part 03)  By Dr. S S Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-25/l-25-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-25/l-25-socio-upsc-hin.mp4",
       },
       {
         id: 26780,
         name: "Lecture- 24 सयुंक्त परिवार में आधुनिक परिवर्तन  Modern Change In Joint Family (Part 02)  By Dr. S S Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-24/l-24-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-24/l-24-socio-upsc-hin.mp4",
       },
       {
         id: 26533,
         name: "Lecture- 23 सयुंक्त परिवार में आधुनिक परिवर्तन  Modern Change In Joint Family (Part 01)  By Dr. S S Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-23/l-23-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-23/l-23-socio-upsc-hin.mp4",
       },
       {
         id: 26232,
         name: "Lecture- 22 हिन्दू विवाह में आधुनिक परिवर्तन Modern Change In Hindu Marriage By Dr. S S Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-22/l-22-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-22/l-22-socio-upsc-hin.mp4",
       },
       {
         id: 26085,
         name: "Lecture- 21  भारत में विवाह Marriage In India By Dr. S S Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-21/l-21-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-21/l-21-socio-upsc-hin.mp4",
       },
       {
         id: 25862,
         name: "Lecture-20 धार्मिक रूढ़िवाद Religious Fundamentalism  By Dr. S.S. Pandey",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-20/l-20-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-20/l-20-socio-upsc-hin.mp4",
       },
       {
         id: 25789,
@@ -5942,19 +5898,19 @@ export const lessons = [
         id: 25702,
         name: "Lecture-19 भारत में साम्प्रदायिकता Communalism In India (Part 02) By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-19/l-19-sociology-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-19/l-19-sociology-upsc-hin.mp4",
       },
       {
         id: 25463,
         name: "Lecture- 18 भारत में साम्प्रदायिकता Communalism In India (Part 01) By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-18/l-18-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-18/l-18-socio-upsc-hin.mp4",
       },
       {
         id: 25071,
         name: "Lecture -17 भारत में धर्मनिरपेक्षता का प्रभाव Impact Of Secularism In India  By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-17/l-17-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-17/l-17-socio-upsc-hin.mp4",
       },
       {
         id: 23482,
@@ -5966,25 +5922,25 @@ export const lessons = [
         id: 22901,
         name: "Lecture- 16 भारत में धर्मनिरपेक्षता का अर्थ एवं प्रकृति Meaning & Nature of  Secularism In India  Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-16/l-16-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-16/l-16-socio-upsc-hin.mp4",
       },
       {
         id: 22787,
         name: "Lecture -15 भारत में धर्मनिरपेक्षता Secularism In India  By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-15/l-15-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-15/l-15-socio-upsc-hin.mp4",
       },
       {
         id: 22564,
         name: "Lecture- 14  भारत में धर्म  Religion In India By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-14/l-14-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-14/l-14-socio-upsc-hin.mp4",
       },
       {
         id: 22463,
         name: "Lecture- 13 भूस्थानीकरण  Glocalization By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-13/l-13-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-13/l-13-socio-upsc-hin.mp4",
       },
       {
         id: 22549,
@@ -6002,7 +5958,7 @@ export const lessons = [
         id: 21836,
         name: "Lecture- 12 वैश्वीकरण का भारतीय संस्कृति पर प्रभाव Effect Of Globalization On Indian Culture By Dr. S. S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-12/l-12-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-12/l-12-socio-upsc-hin.mp4",
       },
       {
         id: 22305,
@@ -6014,7 +5970,7 @@ export const lessons = [
         id: 21983,
         name: "Lecture-11 वैश्वीकरण Globalization By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-11/l-11-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-11/l-11-socio-upsc-hin.mp4",
       },
       {
         id: 22115,
@@ -6026,31 +5982,31 @@ export const lessons = [
         id: 21610,
         name: "Lecture-10 जातिगत जनगणना  Caste Census By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-10/l-10-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-10/l-10-socio-upsc-hin.mp4",
       },
       {
         id: 21342,
         name: "Lecture-09 भारत में जाति-राजनीति Caste-Politics In India By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1805429809.rsc.cdn77.org/l09SSPANDEYSIR/l09SSPANDEYSIR.m3u8",
+          "https://1805429809.rsc.cdn77.org/l09SSPANDEYSIR/l09SSPANDEYSIR.mp4",
       },
       {
         id: 21209,
         name: "Lecture-08 जाति व्यवस्था Caste System  Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-08/l-08-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-08/l-08-socio-upsc-hin.mp4",
       },
       {
         id: 21054,
         name: "Lecture-07   मूलभूत विशेषताएँ Salient features of Indian Society; Expected Questions By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-07/l-07-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-07/l-07-socio-upsc-hin.mp4",
       },
       {
         id: 20885,
         name: "Lecture-06   आधुनिक विशेषताएँ Features of Modern/Contemporary Indian Society By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-06/l-06-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-06/l-06-socio-upsc-hin.mp4",
       },
       {
         id: 21161,
@@ -6068,31 +6024,31 @@ export const lessons = [
         id: 20688,
         name: "Lecture-05  आधुनिक परिवर्तन Modern Changes in traditional By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-05/l-05-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-05/l-05-socio-upsc-hin.mp4",
       },
       {
         id: 20609,
         name: "Lecture-04  मूलभूत विशेषताएँ Salient features By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-04/l-04-sociology-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-04/l-04-sociology-upsc-hin.mp4",
       },
       {
         id: 20477,
         name: "Lecture-03  मूलभूत विशेषताएँ  Salient features  (Part-02)  By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-03/l-03-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-03/l-03-socio-upsc-hin.mp4",
       },
       {
         id: 20314,
         name: "Lecture-02 मूलभूत विशेषताएँ Salient features (Part-01) By Dr. S.S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-02/l-02-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-02/l-02-socio-upsc-hin.mp4",
       },
       {
         id: 20125,
         name: "Lecture-01 Indian Society Introduction Class By Dr. S. S. Pandey Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-01/l-01-socio-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/sociology/l-01/l-01-socio-upsc-hin.mp4",
       },
       {
         id: 20182,
@@ -6347,7 +6303,7 @@ export const lessons = [
         id: 39575,
         name: "Lecture- 41 CSAT( Maths) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39575/kgss-1702644189-v39575.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39575/kgss-1702644189-v39575.mp4",
       },
       {
         id: 39584,
@@ -6365,13 +6321,13 @@ export const lessons = [
         id: 39341,
         name: "Lecture- 40 Average (Part 02) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39341/kgss-1702557819-v39341.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39341/kgss-1702557819-v39341.mp4",
       },
       {
         id: 39106,
         name: "Lecture- 39 Average (Part 01) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39106/kgss-1702472166-v39106.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39106/kgss-1702472166-v39106.mp4",
       },
       {
         id: 39243,
@@ -6383,7 +6339,7 @@ export const lessons = [
         id: 38886,
         name: "Lecture- 38 Time,Speed & Distance (Part 06) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/38886/kgss-1702384025-v38886.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/38886/kgss-1702384025-v38886.mp4",
       },
       {
         id: 38989,
@@ -6395,7 +6351,7 @@ export const lessons = [
         id: 38632,
         name: "Lecture- 37 Time,Speed & Distance (Part 05) By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-37/l-37-csat-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-37/l-37-csat-upsc-hin.mp4",
       },
       {
         id: 38503,
@@ -6407,7 +6363,7 @@ export const lessons = [
         id: 38198,
         name: "Lecture- 36 Time,Speed & Distance (Part 04) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/38210/kgss-1702040054-v38210.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/38210/kgss-1702040054-v38210.mp4",
       },
       {
         id: 38315,
@@ -6419,7 +6375,7 @@ export const lessons = [
         id: 37909,
         name: "Lecture- 35 Time,Speed & Distance (Part 03) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/37909/kgss-1701953216-v37909.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/37909/kgss-1701953216-v37909.mp4",
       },
       {
         id: 38061,
@@ -6437,7 +6393,7 @@ export const lessons = [
         id: 37662,
         name: "Lecture- 34 Time,Speed & Distance (Part 02) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/37662/kgss-1701866040-v37662.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/37662/kgss-1701866040-v37662.mp4",
       },
       {
         id: 37837,
@@ -6449,7 +6405,7 @@ export const lessons = [
         id: 37426,
         name: "Lecture- 33 Time,Speed & Distance (Part 01) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/37426/kgss-1701780741-v37426.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/37426/kgss-1701780741-v37426.mp4",
       },
       {
         id: 37569,
@@ -6473,13 +6429,13 @@ export const lessons = [
         id: 37243,
         name: "Lecture- 32 Work & Wages By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-32/l-32-csat-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-32/l-32-csat-upsc-hin.mp4",
       },
       {
         id: 36731,
         name: "Lecture- 31 Pipe & Cistern By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/36731/kgss-1701441224-v36731.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/36731/kgss-1701441224-v36731.mp4",
       },
       {
         id: 37044,
@@ -6491,7 +6447,7 @@ export const lessons = [
         id: 36443,
         name: "Lecture- 30 Time & Work (Part 04) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/36462/kgss-1701353808-v36462.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/36462/kgss-1701353808-v36462.mp4",
       },
       {
         id: 36626,
@@ -6509,13 +6465,13 @@ export const lessons = [
         id: 36189,
         name: "Lecture- 29 Time & Work (Part 03) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/36189/kgss-1701269038-v36189.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/36189/kgss-1701269038-v36189.mp4",
       },
       {
         id: 35357,
         name: "Lecture- 28  Time & Work (Part 02) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/35329/kgss-1701180426-v35329.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/35329/kgss-1701180426-v35329.mp4",
       },
       {
         id: 35464,
@@ -6527,7 +6483,7 @@ export const lessons = [
         id: 35053,
         name: "Lecture- 27  Time & Work (Part 01) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/35105/kgss-1700751908-v35105.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/35105/kgss-1700751908-v35105.mp4",
       },
       {
         id: 35267,
@@ -6539,7 +6495,7 @@ export const lessons = [
         id: 34910,
         name: "Lecture- 26  Number System Miscellaneous (Part 02) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34930/kgss-1700665629-v34930.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34930/kgss-1700665629-v34930.mp4",
       },
       {
         id: 35015,
@@ -6563,7 +6519,7 @@ export const lessons = [
         id: 34298,
         name: "Lecture- 25  Number System Miscellaneous (Part 01)  By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34511/kgss-1700579131-v34511.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34511/kgss-1700579131-v34511.mp4",
       },
       {
         id: 34661,
@@ -6575,7 +6531,7 @@ export const lessons = [
         id: 34277,
         name: "Lecture- 24 3 & 4 Digit Number  By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34277/kgss-1700232358-v34277.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34277/kgss-1700232358-v34277.mp4",
       },
       {
         id: 34349,
@@ -6593,7 +6549,7 @@ export const lessons = [
         id: 34085,
         name: "Lecture- 23 LCM & HCF (Part 03) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34085/kgss-1700146389-v34085.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34085/kgss-1700146389-v34085.mp4",
       },
       {
         id: 34194,
@@ -6605,7 +6561,7 @@ export const lessons = [
         id: 33518,
         name: "Lecture- 22  LCM & HCF (Part 02) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/33518/kgss-1700054009-v33518.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/33518/kgss-1700054009-v33518.mp4",
       },
       {
         id: 34064,
@@ -6617,7 +6573,7 @@ export const lessons = [
         id: 33829,
         name: "Lecture- 21 LCM & HCF (Part 01) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/33829/kgss-1699974046-v33829.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/33829/kgss-1699974046-v33829.mp4",
       },
       {
         id: 33780,
@@ -6629,7 +6585,7 @@ export const lessons = [
         id: 33160,
         name: "Lecture- 20 Remainder(Part-02) By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-20/l-20-csat-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-20/l-20-csat-upsc-hin.mp4",
       },
       {
         id: 33392,
@@ -6641,7 +6597,7 @@ export const lessons = [
         id: 32910,
         name: "Lecture- 19 Remainder(Part-01) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/32910/kgss-1699365239-v32910.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/32910/kgss-1699365239-v32910.mp4",
       },
       {
         id: 33016,
@@ -6653,7 +6609,7 @@ export const lessons = [
         id: 32586,
         name: "Lecture- 18 Unit Digit By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/32586/kgss-1699282586-v32586.m3u8",
+          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/32586/kgss-1699282586-v32586.mp4",
       },
       {
         id: 32695,
@@ -6665,7 +6621,7 @@ export const lessons = [
         id: 32214,
         name: "Lecture- 17   Divisibility Rule (Part 07)  By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-17/l-17-csat-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-17/l-17-csat-upsc-hin.mp4",
       },
       {
         id: 32392,
@@ -6677,13 +6633,13 @@ export const lessons = [
         id: 31879,
         name: "Lecture- 16  Divisibility Rule (Part 06)  By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-16/l-16-csat-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-16/l-16-csat-upsc-hin.mp4",
       },
       {
         id: 31642,
         name: "Lecture- 15 Divisibility Rule (Part 05) By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-15/l-15-csat-hind.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-15/l-15-csat-hind.mp4",
       },
       {
         id: 31901,
@@ -6713,7 +6669,7 @@ export const lessons = [
         id: 31221,
         name: "Lecture -14 Divisibility Rule (Part 04) By  Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-14/l-14-csat-upsc-hind.m3u8",
+          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-14/l-14-csat-upsc-hind.mp4",
       },
       {
         id: 31629,
@@ -6731,13 +6687,13 @@ export const lessons = [
         id: 30635,
         name: "Lecture -13 Divisibility Rule (Part 03) By  Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-13/l-13-csat-hind.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-13/l-13-csat-hind.mp4",
       },
       {
         id: 30120,
         name: "Lecture -12 Divisibility Rule (Part 02) By  Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-12/l-12-csat-upsc-hind.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-12/l-12-csat-upsc-hind.mp4",
       },
       {
         id: 30560,
@@ -6749,7 +6705,7 @@ export const lessons = [
         id: 29864,
         name: "Lecture -11 Divisibility Rule (Part 01) By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-11/l-11-csat-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-11/l-11-csat-upsc-hin.mp4",
       },
       {
         id: 30033,
@@ -6761,7 +6717,7 @@ export const lessons = [
         id: 29624,
         name: "Lecture -10 Factors  By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-10/l-10-csat-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-10/l-10-csat-upsc-hin.mp4",
       },
       {
         id: 29493,
@@ -6773,7 +6729,7 @@ export const lessons = [
         id: 27828,
         name: "Lecture -09 Types of Number By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-09/l-09-csat-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-09/l-09-csat-upsc-hin.mp4",
       },
       {
         id: 29386,
@@ -6785,7 +6741,7 @@ export const lessons = [
         id: 28391,
         name: "Lecture- 08 Calendar (Part 04)  By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-08/l-08-csat-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-08/l-08-csat-upsc-hin.mp4",
       },
       {
         id: 28569,
@@ -6797,7 +6753,7 @@ export const lessons = [
         id: 28172,
         name: "Lecture- 07  Calendar (Part 03) By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-07/l-07-csat-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-07/l-07-csat-upsc-hin.mp4",
       },
       {
         id: 28301,
@@ -6839,7 +6795,7 @@ export const lessons = [
         id: 27747,
         name: "Lecture- 06 Calendar (Part 02) By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-06/l-06-csat-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-06/l-06-csat-upsc-hin.mp4",
       },
       {
         id: 27820,
@@ -6851,7 +6807,7 @@ export const lessons = [
         id: 27506,
         name: "Lecture- 05 Calendar (Part 01) By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-05/l-05-csat-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-05/l-05-csat-hin.mp4",
       },
       {
         id: 27602,
@@ -6869,13 +6825,13 @@ export const lessons = [
         id: 26990,
         name: "Lecture- 04 Clock (Part 04) By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-04/l-04-csat-upsc.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-04/l-04-csat-upsc.mp4",
       },
       {
         id: 26776,
         name: "Lecture- 03Clock (Part 03) By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-03/l-03-csat-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-03/l-03-csat-upsc-hin.mp4",
       },
       {
         id: 26896,
@@ -6893,7 +6849,7 @@ export const lessons = [
         id: 26531,
         name: "Lecture- 02 Clock (Part 02) By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-02/l-02-csat-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-02/l-02-csat-upsc-hin.mp4",
       },
       {
         id: 26668,
@@ -6905,7 +6861,7 @@ export const lessons = [
         id: 26240,
         name: "Lecture- 01  Clock (Part 01)  By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-01/l-01-csat-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-01/l-01-csat-upsc-hin.mp4",
       },
       {
         id: 26425,
@@ -6917,7 +6873,7 @@ export const lessons = [
         id: 26503,
         name: "CSAT Orientation Class By Dhrub Singh Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-01/l-01-csat-upsc-hin.m3u8",
+          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-01/l-01-csat-upsc-hin.mp4",
       },
     ],
   },
