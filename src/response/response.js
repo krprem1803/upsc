@@ -155,428 +155,357 @@ export const lessons = [
       {
         id: 7599,
         name: "Lecture-01 परिचय - भारत का संविधान By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/1/1.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7599.mp4",
       },
       {
         id: 7612,
         name: "Lecture 02 संविधानवाद और सरकार By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/2/2.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7612.mp4",
       },
       {
         id: 7614,
         name: "Lecture- 03 भाग- 3 (मूल अधिकार) By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/3/3.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7614.mp4",
       },
       {
         id: 7615,
         name: "Lecture- 04 भाग- 3 (मूल अधिकार ) अनुच्छेद 14 समता का अधिकार By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/4/4.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7615.mp4",
       },
       {
         id: 7616,
         name: "Lecture 05 भाग- 3 (मूल अधिकार) अनुच्छेद 15 भेदभाव का निषेध By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/5/5.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7616.mp4",
       },
       {
         id: 7617,
         name: "Lecture- 06 भाग- 3 (मूल अधिकार)  अनुच्छेद -16 लोक नियोजन में अवसर की समता By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/6/6.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7617.mp4",
       },
       {
         id: 7620,
         name: "Lecture- 07 भाग- 3 (मूल अधिकार) आरक्षण नीति By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/7/7.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7620.mp4",
       },
       {
         id: 7621,
         name: "Lecture-08  भाग- 3 (मूल अधिकार) , Article-17/18 (अस्पृश्यता का अंत / उपाधियों का अंत ) By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/8/8.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7621.mp4",
       },
       {
         id: 7622,
         name: "Lecture- 09 भाग- 3, (मूल अधिकार),  Article-19 स्वतंत्रता का अधिकार By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/9/9.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7622.mp4",
       },
       {
         id: 7624,
         name: "Lecture- 10 भाग- 3, (मूल अधिकार), Article-20 अपराधों के लिए दोष सिद्धि के सम्बन्ध में संरक्षण By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/10/10.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7624.mp4",
       },
       {
         id: 7625,
         name: "Lecture-11 भाग- 3, (मूल अधिकार), Article-21 प्राण और दैहिक स्वतंत्रता का संरक्षण By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/11/11.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7625.mp4",
       },
       {
         id: 7626,
         name: "Lecture-12 भाग- 3, (मूल अधिकार), Article-22 कुछ दशाओं में गिरफ़्तारी और निरोध से संरक्षण By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/12/12.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7626.mp4",
       },
       {
         id: 7627,
         name: "Lecture-13 भाग- 3, (मूल अधिकार), Article-23/24 शोषण के विरुद्ध अधिकार By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/13/13.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7627.mp4",
       },
       {
         id: 7628,
         name: "Lecture-14 भाग- 3, (मूल अधिकार), Article-25 धार्मिक स्वतंत्रता का अधिकार By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/14/14.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7628.mp4",
       },
       {
         id: 7629,
         name: "Lecture-15 भाग- 3, (मूल अधिकार), Article-25-28 धार्मिक स्वतंत्रता का अधिकार By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/15/15.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7629.mp4",
       },
       {
         id: 7630,
         name: "Lecture-16 भाग- 3, (मूल अधिकार), Article-29/30 संस्कृति और शिक्षा सम्बन्धी अधिकार By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/16/16.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7630.mp4",
       },
       {
         id: 7631,
         name: "Lecture- 17 भाग- 3, (मूल अधिकार), Article-31 संपत्ति का अधिकार By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/17/17.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7631.mp4",
       },
       {
         id: 7632,
         name: "Lecture-18 भाग- 3, (मूल अधिकार), Article-32 संवैधानिक उपचारों का अधिकार By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/18/18.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7632.mp4",
       },
       {
         id: 7633,
         name: "Lecture-19 भाग- 3, (मूल अधिकार), Article-32/33 By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/19/19.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7633.mp4",
       },
       {
         id: 7634,
         name: "Lecture-20 भाग- 3, (मूल अधिकार), Article-34/35 By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/20/20.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7634.mp4",
       },
       {
         id: 7636,
         name: "Lecture-21 भाग- 3, (मूल अधिकार), मूल अधिकारों का संशोधन, DPSP By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/L21/l21.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7636.mp4",
       },
       {
         id: 7638,
         name: "Lecture-22 भाग- 4 (राज्य के निति निदेशक तत्व) By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/21/21.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7638.mp4",
       },
       {
         id: 7639,
         name: "Lecture-23 भाग-4 (राज्य के  नीति निर्देशक तत्व, समान नागरिक संहिता) By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/23/23.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7639.mp4",
       },
       {
         id: 7640,
         name: "Lecture-24 भाग- 4A (मूल कर्त्तव्य )",
-        video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/polity/l24/24.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7640.mp4",
       },
       {
         id: 7642,
         name: "Lecture-25 भाग- 5 (संघ सरकार) By Rajesh Mishra Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-25-polity-upsc-hin/l-25-polity-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7642.mp4",
       },
       {
         id: 7644,
         name: "Lecture-26 भाग-5, संघ और राज्य के बीच शक्तियों का विभाजन By Rajesh Mishra Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kv4-state-pcs/all-video-backup/l-26-polity-upsc-hin/l-26-polity-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7644.mp4",
       },
       {
         id: 7646,
         name: "Lecture-28 भाग-5, भारत संघ की विशेषता By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/26/26.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7646.mp4",
       },
       {
         id: 7647,
         name: "Lecture-29 भाग-5, संघ सरकार By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/29/29.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7647.mp4",
       },
       {
         id: 7648,
         name: "Lecture-30 भाग-5, संघ सरकार By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/30/30.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7648.mp4",
       },
       {
         id: 7649,
         name: "Lecture-31 भाग-5, संघ सरकार By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/31/31.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7649.mp4",
       },
       {
         id: 7650,
         name: "Lecture-32 भाग-5, संघ सरकार By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/32/32.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7650.mp4",
       },
       {
         id: 7653,
         name: "Lecture-33 भाग-5, संघ सरकार By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/33/33.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7653.mp4",
       },
       {
         id: 7654,
         name: "Lecture-34 अध्यक्षीय शासन/ मंत्रिमंडल और मंत्रिपरिषद By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/34/34.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7654.mp4",
       },
       {
         id: 7655,
         name: "Lecture-35 मंत्रिमंडल और मंत्रिपरिषद By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/35/35.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7655.mp4",
       },
       {
         id: 7656,
         name: "Lecture-36 लोकसभा और राज्यसभा By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/36/36.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7656.mp4",
       },
       {
         id: 7657,
         name: "Lecture-37 राज्यसभा  By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/37/37.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7657.mp4",
       },
       {
         id: 7658,
         name: "Lecture-38 लोकसभा Part 01 By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/38/38.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7658.mp4",
       },
       {
         id: 7659,
         name: "Lecture-38 लोकसभा Part 02  By Rajesh Mishra sir Part 02",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/38(2)/38(2).mp4",
+        video_url: "",
       },
       {
         id: 7660,
         name: "Lecture-39 संसद ( विधि निर्माण की प्रक्रिया )  By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/39/39.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7660.mp4",
       },
       {
         id: 7661,
         name: "Lecture-40 संसद का कार्यपालिका पर वित्तीय नियंत्रण  By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/40/40.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7661.mp4",
       },
       {
         id: 7662,
         name: "Lecture-41  बजट  By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/41/41.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7662.mp4",
       },
       {
         id: 7663,
         name: "Lecture-42 बजट ( धन विधेयक और वित्त विधेयक ) By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/42/42.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7663.mp4",
       },
       {
         id: 7664,
         name: "Lecture-43 दल बदल कानून By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/43/43.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7664.mp4",
       },
       {
         id: 7665,
         name: "Lecture-44 अध्यादेश  By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/44/44.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7665.mp4",
       },
       {
         id: 7667,
         name: "Lecture-45 संसदीय प्रस्ताव और संकल्प  By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/45/45.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7667.mp4",
       },
       {
         id: 7669,
         name: "Lecture-46 संसदीय विशेषाधिकार  By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/46/46.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7669.mp4",
       },
       {
         id: 7670,
         name: "Lecture-47 संसदीय समितियां और कुछ तथ्य  By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/47/47.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7670.mp4",
       },
       {
         id: 7671,
         name: "Lecture-48 राष्ट्रपति By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/48/48.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7671.mp4",
       },
       {
         id: 7672,
         name: "Lecture-49 राष्ट्रपति  By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/49/49.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7672.mp4",
       },
       {
         id: 7673,
         name: "Lecture-50 राष्ट्रपति  By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/50/50.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7673.mp4",
       },
       {
         id: 7674,
         name: "Lecture-51 राष्ट्रीय आपातकाल By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/51/51.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7674.mp4",
       },
       {
         id: 7675,
         name: "Lecture-52 वित्तीय आपातकाल By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/52/52.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7675.mp4",
       },
       {
         id: 7676,
         name: "Lecture-53 राष्ट्रपति और उपराष्ट्रपति By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/53/53.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7676.mp4",
       },
       {
         id: 7677,
         name: "Lecture-54 न्यायपालिका By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/54/54.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7677.mp4",
       },
       {
         id: 7680,
         name: "Lecture-55 न्यायपालिका Part-02 By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/55/55.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7680.mp4",
       },
       {
         id: 7681,
         name: "Lecture-56 उच्चतम न्यायालय By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/56/56.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7681.mp4",
       },
       {
         id: 7683,
         name: "Lecture-57 संविधान की आधारभूत संरचना  By Rajesh Mishra sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/57/57.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7683.mp4",
       },
       {
         id: 7685,
         name: "Lecture-58 न्यायिक पुनरावलोकन और उच्च न्यायालय  By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/58/58.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7685.mp4",
       },
       {
         id: 7686,
         name: "Lecture-59 न्यायालय की अवमानना  By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/59/59.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7686.mp4",
       },
       {
         id: 7687,
         name: "Lecture-60 अधिकरण, लोक अदालत और ग्राम न्यायालय  By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/60/60.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7687.mp4",
       },
       {
         id: 7690,
         name: "Lecture-61 पंचायती राज  By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/61/61.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7690.mp4",
       },
       {
         id: 7694,
         name: "Lecture-62 पंचायती राज Part-02  By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/62/62.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7694.mp4",
       },
       {
         id: 7695,
         name: "Lecture-63 पंचायती राज Part-03 By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/63/63.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7695.mp4",
       },
       {
         id: 7698,
         name: "Lecture-64 Indian Polity Doubt Session By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/64/64.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7698.mp4",
       },
       {
         id: 7704,
         name: "Lecture-65 भारतीय संविधान की प्रस्तावना Part -01  By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/65/65.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7704.mp4",
       },
       {
         id: 7705,
         name: "Lecture-66 भारतीय संविधान की प्रस्तावना Part -02  By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/66/66.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7705.mp4",
       },
       {
         id: 7706,
         name: "Lecture-67 नियंत्रक एवं महालेखा परीक्षक( CAG )  By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/67/67.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7706.mp4",
       },
       {
         id: 7707,
         name: "Lecture-68 निर्वाचन आयोग  By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/68/68.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7707.mp4",
       },
       {
         id: 7708,
         name: "Lecture-69 नागरिकता By Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/69/69.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7708.mp4",
       },
       {
         id: 7709,
         name: "Lecture-70 Doubt session by Rajesh Mishra Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/70/70.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/7709.mp4",
       },
       {
         id: 7645,
         name: "Lecture-27 भाग-5 संघ और राज्य के बीच शक्तियों का विभाजन",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/polity/26+-+Copy/26-Copy.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/7645.mp4",
       },
       {
         id: 8818,
