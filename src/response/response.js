@@ -1707,14 +1707,12 @@ export const lessons = [
       {
         id: 21612,
         name: "Lecture-36 आधुनिक भारत में स्थापत्य कला, चित्रकला एवं शिक्षा By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-36/l-36-arts-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/sep-2023/21612.mp4",
       },
       {
         id: 21344,
         name: "Lecture-35 आधुनिक भारत की संस्कृति एवं विरासत By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-35/l-35-arts-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/sep-2023/21344.mp4",
       },
       {
         id: 21488,
@@ -1779,32 +1777,27 @@ export const lessons = [
       {
         id: 21211,
         name: "Lecture-34 विजयनगर साम्राज्य By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-34/l-34-arts-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/sep-2023/21211.mp4",
       },
       {
         id: 21053,
         name: "Lecture-33 मध्यकालीन संगीतकला By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-33/l-33-arts-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/sep-2023/21053.mp4",
       },
       {
         id: 20882,
         name: "Lecture-32 मध्यकालीन चित्रकला By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-32/l-32-arts-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/sep-2023/20882.mp4",
       },
       {
         id: 20689,
         name: "Lecture-31 मध्यकालीन स्थापत्य कला By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-31/l-31-arts-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/sep-2023/20689.mp4",
       },
       {
         id: 20475,
         name: "Lecture-30 मध्यकालीन साहित्य एवं शिक्षा By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-30/l-30-arts-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/sep-2023/20475.mp4",
       },
       {
         id: 20530,
@@ -1857,14 +1850,12 @@ export const lessons = [
       {
         id: 20317,
         name: "Lecture-29 मध्यकालीन संस्कृति (Part-02) By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/l29manikantsir/l29manikantsir.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/sep-2023/20317.mp4",
       },
       {
         id: 19902,
         name: "Lecture-28 मध्यकालीन संस्कृति  (Part-01) By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/l28manikantsir/l28manikantsir.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/sep-2023/19902.mp4",
       },
       {
         id: 20013,
@@ -1923,8 +1914,7 @@ export const lessons = [
       {
         id: 19646,
         name: "Lecture-27 मध्यकालीन अर्थव्यवस्था By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-27/l-27-art-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/19646.mp4",
       },
       {
         id: 19938,
@@ -2025,20 +2015,17 @@ export const lessons = [
       {
         id: 19344,
         name: "Lecture-26 मध्यकालीन प्रशासन (Part-02) By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-26/l-26-arts-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/19344.mp4",
       },
       {
         id: 19315,
         name: "Lecture-25 मध्यकालीन प्रशासन  (Part-01) By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-25/l-25-arts-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/19315.mp4",
       },
       {
         id: 19076,
         name: "Lecture-24 मुगल काल (Part-01) By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-24/l-24-arts-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/19076.mp4",
       },
       {
         id: 19352,
@@ -2067,8 +2054,7 @@ export const lessons = [
       {
         id: 18927,
         name: "Lecture-23 सल्तनत काल (Part-02) By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-23/l-23-arts-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/18927.mp4",
       },
       {
         id: 19233,
@@ -2163,80 +2149,73 @@ export const lessons = [
       {
         id: 18600,
         name: "Lecture-22 सल्तनत काल (Part-01) By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-22/l-22-arts-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/18600.mp4",
       },
       {
         id: 18465,
         name: "Lecture-21 मध्यकाल में इस्लाम का प्रसार By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-21/l-21-arts-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/18465.mp4",
       },
       {
         id: 18291,
         name: "Lecture-20 प्राचीन भारत में नृत्य एवं संगीत कला तथा विज्ञान एवं तकनीकी का विकास By Manikant Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/L20manikantsir/L20manikantsir.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/18291.mp4",
       },
       {
         id: 18081,
         name: "Lecture-19 प्राचीन भारत में चित्रकला का विकास By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-19/l-19-arts-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/18081.mp4",
       },
       {
         id: 17869,
         name: "Lecture-18 प्राचीन भारत में मूर्तिकला का विकास By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-18/l-18-arts-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/17869.mp4",
       },
       {
         id: 17683,
         name: "Lecture-17 प्राचीन भारत में स्थापत्य कला By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-17/l-17-arts-culture-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/17683.mp4",
       },
       {
         id: 17203,
         name: "Lecture-16 प्राचीन भारत में भाषा एवं साहित्य By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-16/l-16-arts-culture-upsc-hin.mp4",
+        video_url: "",
       },
       {
         id: 17029,
         name: "Lecture-15 प्राचीन भारत में धर्म एवं दर्शन (Part-02) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-15/l-15-arts-culture-upsc-hin.mp4",
+          "https://1179218413.rsc.cdn77.org/kgs3/360/4-8-23/l-15-arts-culture-upsc-hin_360.mp4",
       },
       {
         id: 16822,
         name: "Lecture-14 प्राचीन भारत में धर्म एवं दर्शन (Part-01) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-14/l-14-arts-culture-upsc-hin.mp4",
+          "https://1179218413.rsc.cdn77.org/kgs3/360/3-8-23/l-14-arts-culture-upsc-hin_360.mp4",
       },
       {
         id: 16496,
         name: "Lecture-13 प्राचीन भारतीय संस्कृति एवं विरासत (Part-02) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-13/l-13-history-upsc-hin.mp4",
+          "https://1179218413.rsc.cdn77.org/kgs3/360/2-8-23/l-13-history-upsc-hin_360.mp4",
       },
       {
         id: 16331,
         name: "Lecture 12 प्राचीन भारतीय संस्कृति एवं विरासत (Part-01) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-12/l-12-arts-culture-upsc-hin.mp4",
+          "https://1179218413.rsc.cdn77.org/kgs3/360/31-7-23/l-12-arts-culture-upsc-hin_360.mp4",
       },
       {
         id: 16236,
         name: "Lecture 11 गुप्तकाल, गुप्तोत्तर काल तथा पूर्वमध्य काल की आर्थिक और सामाजिक स्थिति (Part-02) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-11/l-11-arts-culture-upsc-hin.mp4",
+          "https://1179218413.rsc.cdn77.org/kgs3/360/28-29&30-7-23/l-11-arts-culture-upsc-hin_360.mp4",
       },
       {
         id: 16039,
         name: "Lecture-10 गुप्तकाल, गुप्तोत्तर काल तथा पूर्वमध्य काल की आर्थिक और सामाजिक स्थिति  (Part-01) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-10/10.mp4",
+          "https://1179218413.rsc.cdn77.org/kgs3/360/27-7-23/l-10-arts-culture-upsc-hin_360.mp4",
       },
       {
         id: 16257,
@@ -2254,13 +2233,12 @@ export const lessons = [
         id: 15860,
         name: "Lecture-09 गुप्तकाल, गुप्तोत्तर काल तथा पूर्वमध्य काल की राजनीतिक स्थिति (Part-02) By Manikant Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/arts-culture/l-9/l-9-history-upsc-hin.mp4",
+          "https://1179218413.rsc.cdn77.org/kgs3/360/26-7-23/l-9-history-upsc-hin_360.mp4",
       },
       {
         id: 15472,
         name: "Lecture-08 गुप्तकाल, गुप्तोत्तर काल तथा पूर्वमध्य काल की राजनीतिक स्थिति (Part-01) By Manikant Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/old-backups/l-8-arts&culture-upsc-hin/l8.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/yt14k/15472.mp4",
       },
       {
         id: 15955,
@@ -2289,20 +2267,17 @@ export const lessons = [
       {
         id: 15021,
         name: "Lecture-07 बुद्ध काल अथवा महाजनपद काल By Manikant Sir",
-        video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ancient-history/l7/lecture07ancient-medievalhistoryandart-culturebymanikantsir.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/sep-2023/15021.mp4",
       },
       {
         id: 14446,
         name: "Lecture 06 वैदिक काल: राज्य, साम्राज्य, राजवंश एवं शासक By Manikant Sir",
-        video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ancient-history/l6/l6.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/14446.mp4",
       },
       {
         id: 14619,
         name: "Lecture 05 हड़प्पा सभ्यता और संस्कृति By Manikant Sir",
-        video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/ancient-history/l5/l5.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/14619.mp4",
       },
       {
         id: 14954,
@@ -2320,23 +2295,22 @@ export const lessons = [
         id: 14451,
         name: "Lecture 04 पूर्व ऐतिहासिक काल एवं आद्य ऐतिहासिक काल-03 By Manikant Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/17th-july/l-4-history-upsc-hin/l-4-history-upsc-hin.mp4",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/360/17-7-23/l-4-art&culture-upsc-hin_360.mp4",
       },
       {
         id: 14272,
         name: "Lecture 03 पूर्व ऐतिहासिक काल एवं आद्य ऐतिहासिक काल-02 By Manikant Sir",
-        video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/14th-july/l-3-history/3.mp4",
+        video_url: " https://1747620554.rsc.cdn77.org/320p/aug-2023/14272.mp4",
       },
       {
         id: 14136,
         name: "Lecture 02 पूर्व ऐतिहासिक काल एवं आद्य ऐतिहासिक काल-01 By Manikant Sir",
-        video_url: "https://www.youtube.com/embed/B0Uzgsj3E3g",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/yt14k/14136.mp4",
       },
       {
         id: 13994,
         name: "Lecture 01 Ancient & Medieval History And Art & Culture Introduction Class By Manikant Sir",
-        video_url: "https://www.youtube.com/embed/naXcjRbIq14",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/yt10k/13994.mp4",
       },
       {
         id: 14090,
@@ -2575,176 +2549,147 @@ export const lessons = [
       {
         id: 7532,
         name: "Lecture-02 Introduction Of America By Sachin Arora sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L2/L2.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7532.mp4",
       },
       {
         id: 7533,
         name: "Lecture-03 North America Part 01 By Sachin Arora sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L3/L3.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7533.mp4",
       },
       {
         id: 7534,
         name: "Lecture-04 North America Part-02 By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L4/L4.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7534.mp4",
       },
       {
         id: 7535,
         name: "Lecture-05 South America Part-01By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L5/L5.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7535.mp4",
       },
       {
         id: 7536,
         name: "Lecture-06 South America Part-02 By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L6/L6.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7536.mp4",
       },
       {
         id: 7537,
         name: "Lecture-07 Principles of World Physical geography Part-01 By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L7/L7.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7537.mp4",
       },
       {
         id: 7538,
         name: "Lecture-08 Physical Geography of Africa Part-1 By Sachin Arora sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L8/L8.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7538.mp4",
       },
       {
         id: 7539,
         name: "Lecture-09 Physical Geography of Africa Part-2 By Sachin Arora sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L9/L9.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7539.mp4",
       },
       {
         id: 7540,
         name: "Lecture-10 Principles of atmosphere  By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L10/L10.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7540.mp4",
       },
       {
         id: 7541,
         name: "Lecture-11 Oceania Part 01 By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L11/L11.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7541.mp4",
       },
       {
         id: 7542,
         name: "Lecture-12 Principles of atmosphere Part-02 By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L12/L12.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7542.mp4",
       },
       {
         id: 7543,
         name: "Lecture-13 Oceania Part-02 By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L13/L13.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7543.mp4",
       },
       {
         id: 7544,
         name: "Lecture-14 Europe Part-01 By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L14/L14.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7544.mp4",
       },
       {
         id: 7545,
         name: "Lecture-15 Europe Part-02 By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L15/L15.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7545.mp4",
       },
       {
         id: 7546,
         name: "Lecture-16 : Asia part 01 Geography By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L16/L16.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7546.mp4",
       },
       {
         id: 7547,
         name: "Lecture-17  :Natural Vegetation of the World  | Geography By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L17/L17.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7547.mp4",
       },
       {
         id: 7548,
         name: "Lecture-18  :Asia Part 02  | Geography By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L18/L18.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7548.mp4",
       },
       {
         id: 7549,
         name: "Lecture-19: World Economic Geography part 01 And World Resources By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L19/L19.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7549.mp4",
       },
       {
         id: 7550,
         name: "Lecture-20: World Economic Geography part 02 And World Metal Resources By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L20/L20.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7550.mp4",
       },
       {
         id: 7551,
         name: "Lecture-21: World Economic Geography part 03 And World Metal Resources By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L21/L21.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7551.mp4",
       },
       {
         id: 7552,
         name: "Lecture-22: World Economic Geography part 04 And World Energy Resources By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L22/L22.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7552.mp4",
       },
       {
         id: 7553,
         name: "Lecture-23: World Economic Geography part 05 And World Energy Resources By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L23/L23.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7553.mp4",
       },
       {
         id: 7554,
         name: "Lecture-24: World Economic Geography part 06 And World Energy Resources By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L24/L24.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7554.mp4",
       },
       {
         id: 7555,
         name: "Lecture-25: विश्व बायोम (विश्व जलवायु और जैविक क्षेत्र) By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L25/L25.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7555.mp4",
       },
       {
         id: 7556,
         name: "Lecture-26:  विश्व बायोम 02  By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L26/L26.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7556.mp4",
       },
       {
         id: 7557,
         name: "Lecture-27: World Industries Part-01  By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L27/L27.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7557.mp4",
       },
       {
         id: 7558,
         name: "Lecture-28: World Industries Part-02  By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L28/L28.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7558.mp4",
       },
       {
         id: 7559,
         name: "Lecture-29: World Industries Part-03 & Asia Continent 03  By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/L29/L29.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7559.mp4",
       },
       {
         id: 7531,
         name: "Lecture-01 World Geography Orientation Class by Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/geo/l1/L1.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/7531.mp4",
       },
     ],
   },
@@ -2755,67 +2700,64 @@ export const lessons = [
       {
         id: 35595,
         name: "Lecture-32 पृथ्वी - जलमंडल 6 : महासागरीय ज्वार-भाटा By Sachin Arora Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/geography/l-32/l-32-gen-geo-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/35595.mp4",
       },
       {
         id: 35354,
         name: "Lecture- 31 पृथ्वी - पृथ्वी - जलमंडल 5 : महासागरीय लवणता एव सुनामी  By Sachin Arora Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/35354/kgss-1700791441-v35354.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/35354/kgss-1700791441-v35354_360p878kbs.mp4",
       },
       {
         id: 35047,
         name: "Lecture- 30 पृथ्वी - जलमंडल 4 : महासागरीय जल धारा  02 By Sachin Arora Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/35047/kgss-1700705723-v35047.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/35047/kgss-1700705723-v35047_360p878kbs.mp4",
       },
       {
         id: 34906,
         name: "Lecture- 29 पृथ्वी - जलमंडल 3 : महासागरीय जल धारा 01 By Sachin Arora Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34906/kgss-1700619243-v34906.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/34906/kgss-1700619243-v34906_360p878kbs.mp4",
       },
       {
         id: 34708,
         name: "Lecture- 28 पृथ्वी - जलमंडल 2 : सागर नितल 01 By Sachin Arora Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/geography/l-28/l-28-gen-geo-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/34708.mp4",
       },
       {
         id: 33508,
         name: "Lecture- 27 पृथ्वी - जलमंडल -1 परिचय  By Sachin Arora Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/33508/kgss-1699496476-v33508.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/33508/kgss-1699496476-v33508_360p878kbs.mp4",
       },
       {
         id: 33156,
         name: "Lecture- 26 पृथ्वी - वायुमंडल 11 : वायुमंडलीय परिसंचरण 08 By Sachin Arora Sir",
-        video_url: "https://www.youtube.com/embed/y67XF9f8pIQ",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/33156.mp4",
       },
       {
         id: 32903,
         name: "Lecture- 25 पृथ्वी - वायुमंडल 10 : वायुमंडलीय परिसंचरण 07 By Sachin Arora Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/32903/kgss-1699323671-v32903.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/32903/kgss-1699323671-v32903_360p878kbs.mp4",
       },
       {
         id: 32578,
         name: "Lecture- 24 पृथ्वी - वायुमंडल 09 : वायुमंडलीय परिसंचरण 06 By Sachin Arora Sir",
         video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/geography/l-24/l-24-gen-geo-upsc-hin.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/32578/kgss-1699237043-v32578_360p878kbs.mp4",
       },
       {
         id: 32393,
         name: "Lecture- 23 पृथ्वी - वायुमंडल 08 : वायुमंडलीय परिसंचरण 05 By Sachin Arora Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/32393/kgss-1699064539-v32393.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/32393/kgss-1699064539-v32393_360p878kbs.mp4",
       },
       {
         id: 31903,
         name: "Lecture- 22 पृथ्वी - वायुमंडल 07 : वायुमंडलीय परिसंचरण 04  By Sachin Arora Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/geography/l-22/l-22-gen-geo-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/31903.mp4",
       },
       {
         id: 31891,
@@ -2863,121 +2805,104 @@ export const lessons = [
         id: 13777,
         name: "Lecture 21 पृथ्वी - वायुमंडल  06 : वायुमंडलीय परिसंचरण 03 By Sachin Arora Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/collective/11th-july/l-21geo/l-21geo.mp4",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/360/11-7-23/l-21geo_360.mp4",
       },
       {
         id: 13030,
         name: "Lecture-20 पृथ्वी- वायुमंडल 05: वायुमंडलीय परिसंचरण 02 By Sachin Arora Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/geography/l-20geo/20g.mp4",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/360/10-7-23/l-20geo_360.mp4",
       },
       {
         id: 12852,
         name: "Lecture- 19 भूगोल :-  पृथ्वी : वायुमंडल 04 - वायुमंडलीय परिसंचरण 01 By Sachin Arora Sir",
         video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/geography/l-19/l19.mp4",
+          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/360/6-7-23/l-19g.mp4",
       },
       {
         id: 12772,
         name: "Lecture- 18 भूगोल :- पृथ्वी - वायुमंडल 03 - वायुमंडल के तत्त्व By Sachin Arora Sir",
-        video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/geography/l-18/l-18.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/12772.mp4",
       },
       {
         id: 12560,
         name: "Lecture- 17 भूगोल :- पृथ्वी  - वायुमंडल 02 - वायुमंडल के तत्त्व By Sachin Arora Sir",
-        video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/geography/l-17/17.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/12560.mp4",
       },
       {
         id: 12253,
         name: "Lecture 16 : पृथ्वी- वायुमंडल 01: उत्पत्ति, संरचना, एवं संघटन By Sachin Arora Sir",
-        video_url:
-          "https://kgscv.nyc3.cdn.digitaloceanspaces.com/upsc-hindi/geography/l-16/16.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/12253.mp4",
       },
       {
         id: 12064,
         name: "Lecture-15 भूगोल 10 - पृथ्वी : भूसंचलन, ज्वालामुखी, भूकंप और सुनामी By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l15/l15.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/12064.mp4",
       },
       {
         id: 11719,
         name: "Lecture-14 भूगोल 09 - पृथ्वी :  ज्वालामुखी By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l14/l14.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/11719.mp4",
       },
       {
         id: 11510,
         name: "Lecture-13 भूगोल 08 - पृथ्वी : स्थलमंडलीय भू भौतिकीय घटनाएँ By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l13/l13.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/11510.mp4",
       },
       {
         id: 11386,
         name: "Lecture-12 भूगोल 07 - पृथ्वी : प्लेट विवर्तनिकी By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l12/l12.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/11386.mp4",
       },
       {
         id: 11193,
         name: "Lecture-11 भूगोल 06 - पृथ्वी : भू - गतिशीलता By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l11/l11.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/11193.mp4",
       },
       {
         id: 11013,
         name: "Lecture-10 भूगोल 05 :पृथ्वी भू - चुम्बकत्व और महाद्वीपीय विस्थापन सिद्धांत By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l10/l10.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/11013.mp4",
       },
       {
         id: 10879,
         name: "Lecture-09 भूगोल 04 : पृथ्वी- आंतरिक संरचना और स्थलमंडल By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l9/l9/l9.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/10879.mp4",
       },
       {
         id: 10823,
         name: "Lecture-08 भूगोल 03: पृथ्वी- आंतरिक संरचना और स्थलमंडल By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l8/l8.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/10823.mp4",
       },
       {
         id: 10706,
         name: "Lecture-07 भूगोल 02: पृथ्वी : आंतरिक संरचना  By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l7/l7.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/10706.mp4",
       },
       {
         id: 10569,
         name: "Lecture-06 भूगोल 02: पृथ्वी- स्थिति एवं संरचना By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l6/l6.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/10569.mp4",
       },
       {
         id: 10542,
         name: "Lecture-05 भूगोल 01: पृथ्वी की उत्पत्ति  By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l5/l5.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/10542.mp4",
       },
       {
         id: 10350,
         name: "Lecture-04 खगोल विज्ञान 03 : ग्रह और सौर मंडल By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/L-4/L-4.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/10350.mp4",
       },
       {
         id: 10260,
         name: "Lecture-03 खगोल विज्ञान 02: खगोलीय पिंड By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l3/l3.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/10260.mp4",
       },
       {
         id: 10114,
         name: "Lecture-02 खगोल विज्ञान 01: अंतरिक्ष और इसकी उत्पत्ति By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/l2/l2.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/10114.mp4",
       },
       {
         id: 10278,
@@ -3006,8 +2931,7 @@ export const lessons = [
       {
         id: 9371,
         name: "Lecture-01 General Geography Introduction Class By Sachin Arora Sir",
-        video_url:
-          "https://1805429809.rsc.cdn77.org/upsc-hindi-2023/general-geo/L1/l-01genlgeointrclassbysachinarorasirhindimid9jun.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/aug-2023/9371.mp4",
       },
     ],
   },
