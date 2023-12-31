@@ -6156,7 +6156,7 @@ export const lessons = [
         id: 39575,
         name: "Lecture- 41 CSAT( Maths) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39575/kgss-1702644189-v39575.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/dec-2023/39575/kgss-1702644189-v39575_360p878kbs.mp4",
       },
       {
         id: 39584,
@@ -6174,13 +6174,13 @@ export const lessons = [
         id: 39341,
         name: "Lecture- 40 Average (Part 02) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39341/kgss-1702557819-v39341.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/dec-2023/39341/kgss-1702557819-v39341_360p878kbs.mp4",
       },
       {
         id: 39106,
         name: "Lecture- 39 Average (Part 01) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/39106/kgss-1702472166-v39106.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/dec-2023/39106/kgss-1702472166-v39106_360p878kbs.mp4",
       },
       {
         id: 39243,
@@ -6192,7 +6192,7 @@ export const lessons = [
         id: 38886,
         name: "Lecture- 38 Time,Speed & Distance (Part 06) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/38886/kgss-1702384025-v38886.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/dec-2023/38886/kgss-1702384025-v38886_360p878kbs.mp4",
       },
       {
         id: 38989,
@@ -6203,8 +6203,7 @@ export const lessons = [
       {
         id: 38632,
         name: "Lecture- 37 Time,Speed & Distance (Part 05) By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-37/l-37-csat-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/38632.mp4",
       },
       {
         id: 38503,
@@ -6216,7 +6215,7 @@ export const lessons = [
         id: 38198,
         name: "Lecture- 36 Time,Speed & Distance (Part 04) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/38210/kgss-1702040054-v38210.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/dec-2023/38210/kgss-1702040054-v38210_360p878kbs.mp4",
       },
       {
         id: 38315,
@@ -6228,7 +6227,7 @@ export const lessons = [
         id: 37909,
         name: "Lecture- 35 Time,Speed & Distance (Part 03) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/37909/kgss-1701953216-v37909.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/dec-2023/37909/kgss-1701953216-v37909_360p878kbs.mp4",
       },
       {
         id: 38061,
@@ -6246,7 +6245,7 @@ export const lessons = [
         id: 37662,
         name: "Lecture- 34 Time,Speed & Distance (Part 02) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/37662/kgss-1701866040-v37662.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/dec-2023/37662/kgss-1701866040-v37662_360p878kbs.mp4",
       },
       {
         id: 37837,
@@ -6258,7 +6257,7 @@ export const lessons = [
         id: 37426,
         name: "Lecture- 33 Time,Speed & Distance (Part 01) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/37426/kgss-1701780741-v37426.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/dec-2023/37426/kgss-1701780741-v37426_360p878kbs.mp4",
       },
       {
         id: 37569,
@@ -6281,14 +6280,13 @@ export const lessons = [
       {
         id: 37243,
         name: "Lecture- 32 Work & Wages By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-32/l-32-csat-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/dec-2023/37243.mp4",
       },
       {
         id: 36731,
         name: "Lecture- 31 Pipe & Cistern By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/dec-2023/36731/kgss-1701441224-v36731.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/36731/kgss-1701441224-v36731_360p878kbs.mp4",
       },
       {
         id: 37044,
@@ -6300,7 +6298,7 @@ export const lessons = [
         id: 36443,
         name: "Lecture- 30 Time & Work (Part 04) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/36462/kgss-1701353808-v36462.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/36462/kgss-1701353808-v36462_360p878kbs.mp4",
       },
       {
         id: 36626,
@@ -6318,13 +6316,13 @@ export const lessons = [
         id: 36189,
         name: "Lecture- 29 Time & Work (Part 03) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/36189/kgss-1701269038-v36189.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/36189/kgss-1701269038-v36189_360p878kbs.mp4",
       },
       {
         id: 35357,
         name: "Lecture- 28  Time & Work (Part 02) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/35329/kgss-1701180426-v35329.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/35329/kgss-1701180426-v35329_360p878kbs.mp4",
       },
       {
         id: 35464,
@@ -6336,7 +6334,7 @@ export const lessons = [
         id: 35053,
         name: "Lecture- 27  Time & Work (Part 01) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/35105/kgss-1700751908-v35105.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/35105/kgss-1700751908-v35105_360p878kbs.mp4",
       },
       {
         id: 35267,
@@ -6348,7 +6346,7 @@ export const lessons = [
         id: 34910,
         name: "Lecture- 26  Number System Miscellaneous (Part 02) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34930/kgss-1700665629-v34930.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/34930/kgss-1700665629-v34930_360p878kbs.mp4",
       },
       {
         id: 35015,
@@ -6372,7 +6370,7 @@ export const lessons = [
         id: 34298,
         name: "Lecture- 25  Number System Miscellaneous (Part 01)  By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34511/kgss-1700579131-v34511.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/34511/kgss-1700579131-v34511_360p878kbs.mp4",
       },
       {
         id: 34661,
@@ -6384,7 +6382,7 @@ export const lessons = [
         id: 34277,
         name: "Lecture- 24 3 & 4 Digit Number  By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34277/kgss-1700232358-v34277.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/34277/kgss-1700232358-v34277_360p878kbs.mp4",
       },
       {
         id: 34349,
@@ -6402,7 +6400,7 @@ export const lessons = [
         id: 34085,
         name: "Lecture- 23 LCM & HCF (Part 03) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/34085/kgss-1700146389-v34085.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/34085/kgss-1700146389-v34085_360p878kbs.mp4",
       },
       {
         id: 34194,
@@ -6414,7 +6412,7 @@ export const lessons = [
         id: 33518,
         name: "Lecture- 22  LCM & HCF (Part 02) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/33518/kgss-1700054009-v33518.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/33518/kgss-1700054009-v33518_360p878kbs.mp4",
       },
       {
         id: 34064,
@@ -6426,7 +6424,7 @@ export const lessons = [
         id: 33829,
         name: "Lecture- 21 LCM & HCF (Part 01) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/33829/kgss-1699974046-v33829.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/33829/kgss-1699974046-v33829_360p878kbs.mp4",
       },
       {
         id: 33780,
@@ -6437,8 +6435,7 @@ export const lessons = [
       {
         id: 33160,
         name: "Lecture- 20 Remainder(Part-02) By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-20/l-20-csat-upsc-hin.mp4",
+        video_url: "",
       },
       {
         id: 33392,
@@ -6450,7 +6447,7 @@ export const lessons = [
         id: 32910,
         name: "Lecture- 19 Remainder(Part-01) By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/32910/kgss-1699365239-v32910.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/32910/kgss-1699365239-v32910_360p878kbs.mp4",
       },
       {
         id: 33016,
@@ -6462,7 +6459,7 @@ export const lessons = [
         id: 32586,
         name: "Lecture- 18 Unit Digit By Dhrub Singh Sir",
         video_url:
-          "https://1942403233.rsc.cdn77.org/kv1/nov-2023/32586/kgss-1699282586-v32586.mp4",
+          "https://1747620554.rsc.cdn77.org/320p/nov-2023/32586/kgss-1699282586-v32586_360p878kbs.mp4",
       },
       {
         id: 32695,
@@ -6473,8 +6470,7 @@ export const lessons = [
       {
         id: 32214,
         name: "Lecture- 17   Divisibility Rule (Part 07)  By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-17/l-17-csat-upsc-hin.mp4",
+        video_url: "",
       },
       {
         id: 32392,
@@ -6485,14 +6481,12 @@ export const lessons = [
       {
         id: 31879,
         name: "Lecture- 16  Divisibility Rule (Part 06)  By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-16/l-16-csat-upsc-hin.mp4",
+        video_url: "",
       },
       {
         id: 31642,
         name: "Lecture- 15 Divisibility Rule (Part 05) By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-15/l-15-csat-hind.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/31642.mp4",
       },
       {
         id: 31901,
@@ -6521,8 +6515,7 @@ export const lessons = [
       {
         id: 31221,
         name: "Lecture -14 Divisibility Rule (Part 04) By  Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kv3-upsc/upsc-hindi-batch-01/csat-hin/l-14/l-14-csat-upsc-hind.mp4",
+        video_url: "",
       },
       {
         id: 31629,
@@ -6539,14 +6532,12 @@ export const lessons = [
       {
         id: 30635,
         name: "Lecture -13 Divisibility Rule (Part 03) By  Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-13/l-13-csat-hind.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/30635.mp4",
       },
       {
         id: 30120,
         name: "Lecture -12 Divisibility Rule (Part 02) By  Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-12/l-12-csat-upsc-hind.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/nov-2023/30120.mp4",
       },
       {
         id: 30560,
@@ -6557,8 +6548,7 @@ export const lessons = [
       {
         id: 29864,
         name: "Lecture -11 Divisibility Rule (Part 01) By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-11/l-11-csat-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/oct-2023/29864.mp4",
       },
       {
         id: 30033,
@@ -6569,8 +6559,7 @@ export const lessons = [
       {
         id: 29624,
         name: "Lecture -10 Factors  By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-10/l-10-csat-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/oct-2023/29624.mp4",
       },
       {
         id: 29493,
@@ -6581,8 +6570,7 @@ export const lessons = [
       {
         id: 27828,
         name: "Lecture -09 Types of Number By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-09/l-09-csat-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/oct-2023/27828.mp4",
       },
       {
         id: 29386,
@@ -6593,8 +6581,7 @@ export const lessons = [
       {
         id: 28391,
         name: "Lecture- 08 Calendar (Part 04)  By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-08/l-08-csat-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/oct-2023/28391.mp4",
       },
       {
         id: 28569,
@@ -6605,8 +6592,7 @@ export const lessons = [
       {
         id: 28172,
         name: "Lecture- 07  Calendar (Part 03) By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-07/l-07-csat-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/oct-2023/28172.mp4",
       },
       {
         id: 28301,
@@ -6647,8 +6633,7 @@ export const lessons = [
       {
         id: 27747,
         name: "Lecture- 06 Calendar (Part 02) By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-06/l-06-csat-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/oct-2023/27747.mp4",
       },
       {
         id: 27820,
@@ -6659,8 +6644,7 @@ export const lessons = [
       {
         id: 27506,
         name: "Lecture- 05 Calendar (Part 01) By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-05/l-05-csat-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/oct-2023/27506.mp4",
       },
       {
         id: 27602,
@@ -6677,14 +6661,12 @@ export const lessons = [
       {
         id: 26990,
         name: "Lecture- 04 Clock (Part 04) By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-04/l-04-csat-upsc.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/oct-2023/26990.mp4",
       },
       {
         id: 26776,
         name: "Lecture- 03Clock (Part 03) By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-03/l-03-csat-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/oct-2023/26776.mp4",
       },
       {
         id: 26896,
@@ -6701,8 +6683,7 @@ export const lessons = [
       {
         id: 26531,
         name: "Lecture- 02 Clock (Part 02) By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-02/l-02-csat-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/oct-2023/26531.mp4",
       },
       {
         id: 26668,
@@ -6713,8 +6694,7 @@ export const lessons = [
       {
         id: 26240,
         name: "Lecture- 01  Clock (Part 01)  By Dhrub Singh Sir",
-        video_url:
-          "https://1179218413.rsc.cdn77.org/kgs3/upsc/upsc-hindi/csat-hin/l-01/l-01-csat-upsc-hin.mp4",
+        video_url: "https://1747620554.rsc.cdn77.org/320p/oct-2023/26240.mp4",
       },
       {
         id: 26425,
